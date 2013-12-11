@@ -6,6 +6,7 @@ body  {
     color: #333;   
     background: url(bgshadow.png) top left no-repeat;
     background-size: 100% 100%;
+    min-height: 100%;
 }
 
 body, h1, h2, h3, h4, h5, h6 {
