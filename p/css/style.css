@@ -1,0 +1,34 @@
+html {
+    background: #f7f7f7 url(bg.jpg);
+}
+
+body  {
+    color: #333;   
+    background: url(bgshadow.png) top left no-repeat;
+    background-size: 100% 100%;
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+   font-family: 'Open Sans', Arial, Helvetica, sans-serif;  
+}
+
+.round {
+        border-radius: 6px;
+}
+
+h1.logo {
+    background: #ff4486;
+    color: #fff;
+
+    font-family: 'Oleo Script', serif;
+    font-weight: 400;
+    float: left;
+    margin: 0 0.35em 0 0;
+    padding: 0.25em 0.2em 0.25em 0.2em;
+    font-size: 3.5em;
+    letter-spacing: 0.05em;    
+}
+h1.logo a{
+    color: #fff;
+    text-decoration: none;
+}
