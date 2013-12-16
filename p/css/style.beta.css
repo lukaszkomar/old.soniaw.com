@@ -1,0 +1,112 @@
+body  {
+    color: #333;   
+    background: #f7f7f7 url(bg.jpg);
+}
+
+body, h1, h2, h3, h4, h5, h6 {
+   font-family: 'Open Sans', Arial, Helvetica, sans-serif;  
+}
+
+header {
+    padding: 20px 0 20px 0;
+}
+
+header .container{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.round {
+        border-radius: 6px;
+}
+
+h1.logo {
+    background: #ff4486;
+    color: #fff;
+
+    font-family: 'Oleo Script', serif;
+    font-weight: 400;
+    float: left;
+    margin: 0 0.35em 0 0;
+    padding: 0.25em 0.2em 0.25em 0.2em;
+    font-size: 3.5em;
+    letter-spacing: 0.05em;    
+}
+h1.logo a{
+    color: #fff;
+    text-decoration: none;
+}
+
+#nav {
+    float: right;
+}
+#nav ul {
+    list-style: none;
+}
+
+#nav ul li {
+    float: left;
+    line-height: 4.5em;
+    padding-left: 1.5em;
+    display: list-item;
+}
+
+#nav ul li a {
+    font-weight: 800;
+    letter-spacing: 0.025em;
+    color: #696969;
+    text-decoration: none;
+    padding: 0.5em 1em 0.5em 1em;
+    -moz-transition: background-color .25s ease-in-out;
+    -webkit-transition: background-color .25s ease-in-out;
+    -o-transition: background-color .25s ease-in-out;
+    -ms-transition: background-color .25s ease-in-out;
+    transition: background-color .25s ease-in-out;
+}
+
+#nav ul li.active a {
+    background: #444;
+    color: #fff;
+}
+
+
+
+
+#content .container {
+    background: #fff;
+}
+
+
+
+#contact .personal,
+#contact .social,
+#contact .copy {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.social a {
+    margin: 10px;
+    display: inline-block;
+}
+
+
+/*** media ****/
+
+
+@media (max-width: 992px) {
+  
+}
+@media (max-width: 767px) {
+     
+    .navbar-brand {   
+      margin-left:0;
+      text-align: left;
+    }
+
+    #contact h3 {
+        text-align: center;
+    }
+   
+}
+
