@@ -2,8 +2,7 @@
 
     body {
         background-color: #000;
-        background-image: url(bg.xs.jpg);
-        background-size:  auto;
+        background-image: url(bg.xs.jpg);        
         background-position-x: right;
         background-position-y: top;
         background-repeat: no-repeat;
