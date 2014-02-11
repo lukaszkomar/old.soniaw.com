@@ -16,7 +16,11 @@
     a {
         color: #5461b1;
     }
-
+    a:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+    
     header { 
         padding: 20px 0 20px 0;    
     }
