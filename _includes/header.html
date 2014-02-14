@@ -1,13 +1,31 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="{{ page.lang }}">
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
+
+  <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author"      content="{{ site.author }}">  
+
+  <meta property="og:locale"    content="{{ page.og_locale }}" /><!-- en_US -->    
+  <meta property="og:site_name" content="{{ site.og_site_name }}" />      
+
+  <link rel="stylesheet" href="p/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="p/css/style.css" />    
+
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,800&amp;subset=latin,latin-ext" />    
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Oleo+Script:400&amp;subset=latin,latin-ext"   />
+
+  <link rel="shortcut icon" href="favicon.ico" />
+
+  <link rel="author"    href="https://plus.google.com/+SoniaWarzynskaSopran" />
+  <link rel="publisher" href="https://plus.google.com/+SoniaWarzynskaSopran" />
+
+  <!--[if lt IE 9]>
+    <script src="p/js/html5shiv.js"></script>
+  <![endif]-->  
   
-  <link href="p/css/style.css" rel="stylesheet">    
-  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600,700,800&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">    
-  <link href="http://fonts.googleapis.com/css?family=Oleo+Script:400&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css" />
-  <link href="favicon.ico" rel="shortcut icon">
 </head>
 <body>
     

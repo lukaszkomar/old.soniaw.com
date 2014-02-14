@@ -1,11 +1,12 @@
-title: Sonia Warzyńska
-description: Sonia Warzyńska
+author: Sonia Warzyńska
+description: Solistka Sonia Warzyńska - sopran. Oficjalna strona artystki. Strona główna
+
+og_site_name: Sonia Warzyńska - sopran
 
 # Owner info
 owner:
   name: Sonia Warzyńska
-
-
+  
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Warsaw
 
