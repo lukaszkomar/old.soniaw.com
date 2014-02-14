@@ -1,3 +1,4 @@
 User-agent: *
 Disallow:
+Host: soniawarzynska.com
 Sitemap: /sitemap.xml
