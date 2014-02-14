@@ -1,15 +1,19 @@
+# Header metadata
 author: Sonia Warzyńska
 
-description_pl: Solistka Sonia Warzyńska - sopran. Oficjalna strona artystki. Strona główna
-description_en: Solistka Sonia Warzyńska - sopran. Oficjalna strona artystki. Strona główna
+description_pl: Solistka Sonia Warzyńska - sopran. Oficjalna strona artystki.
+description_en: Soloist Sonia Warzyńska - soprano. Official website of the artist.
 
 og_site_name_pl: Sonia Warzyńska - sopran
-og_site_name_en: Sonia Warzyńska - sopran
+og_site_name_en: Sonia Warzyńska - soprano
 
 # Social media
 social:
-  facebook: Sonia Warzyńska
+  facebook: https://facebook.com/SoniaWarzynskaSopran
   gplus   : https://plus.google.com/+SoniaWarzynskaSopran
+  twitter : https://twitter.com/sonia_warzynska
+  youtube : https://youtube.com/SoniaWarzynskaSopran
+  
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Warsaw
