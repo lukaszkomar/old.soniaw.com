@@ -6,8 +6,13 @@
     {% if page.layout != nil %}
     <url>
         <loc>{{ page.url | replace: '.html', '' }}</loc>
-        <loc>{{ page.path }}</loc>
-        <loc>{{ page.id }}</loc>
+        {% if page.url == '/index.html' %}
+        <priority>1</priority>
+        {% else page.url == '/en.html' %}
+        <priority>0.9</priority>
+        {% else %}
+        <priority>0.8</priority>        
+        {% endif %}
     </url>
     {% endif %}
     {% endfor %}
