@@ -7,5 +7,13 @@
   ga('create', 'UA-46291292-1', 'soniawarzynska.com');
   ga('send'  , 'pageview');
 </script>
+
+
+    {% if page.lang == pl %}
+    pl
+  {% else %}
+  en
+  {% endif %}
+
 </body>
 </html>
