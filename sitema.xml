@@ -5,16 +5,14 @@
     {% for page in site.pages %}
     {% if page.layout != nil %}
     <url>
-        <loc>{{ page.url | remove: 'index.html' | replace: '.html', '' }}</loc>      
-        <priority>
+        <loc>{{ page.url | remove: 'index.html' | replace: '.html', '' }}</loc>              
         {% if page.url == '/index.html' %}
-        1
+        <priority>1</priority>
         {% elsif page.url == '/en.html' %}
-        0.9
+        <priority>0.9</priority>
         {% else %}
-        0.8
-        {% endif %}
-        </priority>
+        <priority>0.8</priority>
+        {% endif %}        
     </url>
     {% endif %}
     {% endfor %}
