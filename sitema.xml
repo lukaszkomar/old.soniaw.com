@@ -5,7 +5,7 @@
     {% for page in site.pages %}
     {% if page.layout != nil %}
     <url>
-        <loc>{{ page.url | remove: 'index.html' }}</loc>
+        <loc>{{ page.url | replace: '.html', '' }}</loc>
         <loc>{{ page.path }}</loc>
         <loc>{{ page.id }}</loc>
     </url>
