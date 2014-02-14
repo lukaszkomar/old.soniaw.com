@@ -2,16 +2,14 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>/</loc>
-        <priority>1</priority>
-    </url>    
     {% for page in site.pages %}
     {% if page.layout != nil %}
     <url>
         <loc>{{ page.url | remove: 'index.html' | replace: '.html', '' }}</loc>      
         <priority>
-        {% if page.url == '/en.html' %}
+        {% if page.url == '/index.html' %}
+        1
+        {% elsif page.url == '/en.html' %}
         0.9
         {% else %}
         0.8
