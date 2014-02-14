@@ -9,6 +9,7 @@ og_site_name_en: Sonia Warzyńska - sopran
 # Social media
 social:
   facebook: Sonia Warzyńska
+  gplus   : https://plus.google.com/+SoniaWarzynskaSopran
   
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Warsaw
