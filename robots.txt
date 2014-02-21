@@ -1,4 +1,5 @@
+---
+---
 User-agent: *
-Disallow:
-Host: soniawarzynska.com
-Sitemap: /sitemap.xml
+Host: {{ site.url }}
+Sitemap: http://{{ site.url }}/sitemap.xml
