@@ -1,0 +1,19 @@
+        <nav class="col-md-5 col-xs-12" id="nav-menu">
+          <ul>
+            <li><a href="/">About</a></li>
+            <li class="active"><a class="round" href="/kontakt">Contact</a></li>
+            <li><a href="/">Gallery</a></li>
+            
+            {% if page.url  == '/biografia.html' %}  {% endif %} 
+          </ul>
+        </nav>
+        <nav class="col-md-1 col-xs-12" id="nav-lang" >
+          <ul>
+            {% if page.lang == 'pl' %} 
+            <li><a href="/en">EN</a></li>
+            {% else %}
+            <li><a href="/">PL</a></li>
+            {% endif %} 
+          </ul>
+        </nav>    
+    
