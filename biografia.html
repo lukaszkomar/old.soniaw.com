@@ -4,6 +4,23 @@ lang: pl
 title: Biografia - Sonia Warzyńska - sopran
 priority: 0.8
 ---
+        {% assign sorted_pages = site.pages | sort:"name" %}
+        {% for p in sorted_pages %}
+        {% if p.layout != nil and p.url != '/404.html' and p.url != '/index.html'  %}
+          {% if page.url == p.url%}<strong>{% endif %}
+          <a href="{{ p.url | replace: '.html', '' }}" >{{ p.title }}</a>
+          {% if page.url == p.url%}</strong>{% endif %}
+          {% unless forloop.last %},{% endunless %}
+        {% endif %}
+        {% endfor %} 
+        
+###
+
+{{site.url}}
+#        
+{{page.url}}        
+
+
 <p>Urodziła się w 1990r. w Tarnobrzegu. W 2003r. ukończyła Państwową Szkołę Muzyczną I stopnia w Tarnobrzegu w klasie skrzypiec mgr Czesławy Łagowskiej. Studia Wokalne na Akademii Muzycznej w Krakowie rozpoczęła w 2009 roku. Licencjat ukończyła z wyróżnieniem w roku 2012. Wtedy też, uzyskując najwyższą punktację, kontynuowała studia magisterskie w klasie dr hab. Marii Seremet.</p>
 
 <p>Nagrody:</p>
