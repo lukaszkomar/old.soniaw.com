@@ -1,5 +1,50 @@
 {% include header.html %}
-{% include menu.html %}
-<center><h1 class="logo round"><a href="/">{{ page.title }}</a></h1></center> 
+<!-- header -->
+    
+    <header class="container">    								      
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="logo"><a href="/">Sonia Warzyńska - sopran</a></h1>
+        </div>
+      </div>
+      <div class="row">
+{% include menu.html %}        
+      </div>
+    </header>
+
+<!-- content -->
+
+    <div class="container" id="content">   
+      <div class="row">
+        <div class="col-md-6 content">
 {{ content }}
+        </div>
+      </div>
+    </div>
+    
+<!-- footer -->
+
+    <footer class="container">
+        <div class="row">
+          <div class="col-md-6">          
+            <address class="personal"> 
+              <strong><a href="http://soniawarzynska.com"    title="Website">Sonia Warzyńska</a></strong><br>
+              <a href="mailto:contact@soniawarzynska.com"    title="Email">contact@soniawarzynska.com</a><br>
+              <a href="https://maps.google.pl/maps?q=Kraków" title="Adress" target="_blank">Cracow, Poland</a><br>
+            </address>        
+            <div class="social">     
+              <a href="https://twitter.com/sonia_warzynska"           title="Twitter"     target="_blank"><img src="p/ico/twitter.png"    alt="Follow Sonia on Twitter" /></a>       
+              <a href="https://facebook.com/soniawarzynskasopran"     title="Facebook"    target="_blank"><img src="p/ico/facebook.png"   alt="Like Sonia on Facebook" /></a>
+              <a href="https://plus.google.com/+SoniaWarzynskaSopran" title="Google Plus" target="_blank"><img src="p/ico/googleplus.png" alt="Follow Sonia on Google Plus" /></a>
+              <a href="https://youtube.com/soniawarzynskasopran"      title="YouTube"     target="_blank"><img src="p/ico/youtube.png"    alt="Subscribe Sonia on YouTube" /></a>
+            </div>
+          </div>
+        </div>
+    </footer>
+
+<!-- js -->
+
+    <script src="p/js/jquery-1.10.2.min.js"></script>
+    <script src="p/js/bootstrap.min.js"></script>
+
 {% include footer.html %}
