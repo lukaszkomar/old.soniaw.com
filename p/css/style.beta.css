@@ -73,6 +73,10 @@
         
     }    
     
+    img.lightbox {
+        width:100%;
+        border-radius: 6px;
+    }
 
     footer .personal,
     footer .social {
