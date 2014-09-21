@@ -77,11 +77,17 @@
         
     }    
     
-    img.thumb {
+    img.thumb-singet {
         width:100%;
         border-radius: 6px;
     }
-
+    
+    img.thumb {
+        border-radius: 6px;
+        width: 150px;
+        height: 150px;
+    }
+    
     footer .personal,
     footer .social {
         margin-top: 30px;
