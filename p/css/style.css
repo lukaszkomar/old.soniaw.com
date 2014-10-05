@@ -10,11 +10,11 @@
     }
 
     body, h1, h2, h3, h4, h5, h6 {
-        font-family: 'Lobster','Open Sans', Arial, Helvetica, sans-serif;  
+        font-family: 'Open Sans', Arial, Helvetica, sans-serif;  
     }
     
     h1, h2, h3, h4, h5, h6 {
-        font-family: 'Oleo Script','Open Sans', Arial, Helvetica, sans-serif;  
+        font-family: 'Lobster', 'Oleo Script','Open Sans', Arial, Helvetica, sans-serif;  
     }
     
     a {
