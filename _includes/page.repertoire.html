@@ -5,6 +5,15 @@
 {% endif %}
 
 
+
+{% if page.lang == 'pl' %} 
+<a href="/repertuar.pelny">Zobacz pełny repertuar</h3>
+{% else %}
+<a href="/repertoire.full">See full repertoire</h3>
+{% endif %}
+
+<br/>
+
 <h4>{{ site.repertoire.parts.title[page.lang] }}</h4>
 <ul>
 {% for part in site.repertoire.parts.items %}
@@ -12,13 +21,6 @@
 {% endfor %}
 </ul>
 
-<br/>
-
-{% if page.lang == 'pl' %} 
-<a href="/repertuar.pelny">Zobacz pełny repertuar</h3>
-{% else %}
-<a href="/repertoire.full">See full repertoire</h3>
-{% endif %}
 
 
 <br/>
