@@ -33,8 +33,8 @@ gallery:
   testgal:
     title:
       pl: tyt
-      en: tit	  
-	desc:
+      en: title  
+    desc:
       pl: opis
       en: desc	
 	  
