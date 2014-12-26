@@ -5,9 +5,17 @@
 {% endif %}
 
 
-<h3>{{ site.repertoire.parts.title[page.lang] }}</h3>
+<h4>{{ site.repertoire.parts.title[page.lang] }}</h4>
 <ul>
 {% for part in site.repertoire.parts.items %}
   <li>{{ part[1][page.lang] }}</li> 
 {% endfor %}
 </ul>
+
+{% if page.lang == 'pl' %} 
+<a href="/repertuar.pelny">Zobacz pełny repertuar</h3>
+{% else %}
+<h3>Repertoire:</h3>
+<a href="/repertoire.full">See full repertoire</h3>
+
+</br>
