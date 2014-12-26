@@ -24,8 +24,8 @@ timezone: Europe/Warsaw
 permalink: /:title/
 
 
-xxx:
-  yyy:
+xxx: 
+  yyy: 
     zzz: test
 
 	
