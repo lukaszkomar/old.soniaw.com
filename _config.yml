@@ -23,12 +23,7 @@ timezone: Europe/Warsaw
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:title/
 
-xxx: 
-  yyy: 
-    "1": test
-    "2": test
-    "3": test
-
+# Struktura galerii
 gallery:
   "bukowno2014":
     "title":
@@ -69,4 +64,87 @@ gallery:
     "images":
       "01": "wroclaw1"	
       "02": "wroclaw2"
-      
+
+
+repertoire:
+  "parts":
+    "title":
+      "pl": Partie
+      "en": Parts
+    "items":
+      "01":
+        "en": "W.A.Mozart „Le Nozze di Figaro”: Susanna"
+        "pl": "W.A.Mozart „Wesele Figara„: Zuzanna"
+      "02":
+        "en": "G.F.Händel „Rodelinda”: Rodelinda"
+        "pl": "G.F.Händel „Rodelinda”: Rodelinda"
+      "03":
+        "en": "H.Purcell „The Fairyqueen”: Nyph, Night"
+        "pl": "H.Purcell „The Fairyqueen”: Nyph, Night"
+      "04":
+        "en": "W.A.Mozart „Requiem in d minor”"
+        "pl": "W.A.Mozart „Requiem d-moll”"
+      "05":
+        "en": "W.A.Mozart „Messe in c minor”"
+        "pl": "W.A.Mozart „Msza c-moll”"
+      "06":
+        "en": "J.Haydn „Missa in augustiis”"
+        "pl": "J.Haydn „Msza nelsońska”"
+
+  "arias":
+    "01":  
+        "en": "L.Arditi „Il bacio”"
+    "02":
+        "en": "J.S.Bach “Heute noch” from “Kaffeekantate”"
+    "03":
+        "en": "V.Bellini „Eccomi in lieta vesta... Oh, quante volte...” from “Capuleti e i Montecchi” (Julia)"
+    "04":
+        "en": "G.Bizet “Me voilà seule dans la nuit... Comme autrefois...” from “Les pêcheurs de perles” (Leila)"
+    "05":
+        "en": "G.Caccini “Amarilli, mia bella”"
+    "06":
+        "en": "P.Czajkowski “Отчего это прежде не знала” from “Iolanta” (Iolanta)"
+    "07":
+        "en": "G.Donizetti „Il faut partir” from „La fille du régiment” (Maria)"
+    "08":        
+        "en": "G.Donizetti „Salut a la France” from „La fille du régiment” (Maria)"
+    "09":
+        "en": "G.Donizetti “Quel guardo il cavaliere... So anch’io...” from “Don Pasquale” (Norina)"
+    "10":
+        "en": "G.Donizetti “Regnava nel silenzio... Quando rapito in estasi...” from “Lucia di Lammermoor” (Lucia)"
+    "11":
+        "en": "A.Dvořak “Měsičku na nebe hlubokem” from “Rusalka” (Rusalka)"
+    "12":
+        "en": "J.Haydn „Infelice sventurata” from „I due supposti Conti” (Beatrice)"
+    "13":
+        "en": "G.F.Händel „Tornami z vagheggiar” from „Alcina” (Morgana)"
+    "14":
+        "en": "G.F.Händel „Piangeró la sorte mia” from „Giulio Cesare” (Cleopatra)"
+    "15":
+        "en": "G.F.Händel „Lascia ch’io pianga” from „Rinaldo”"
+    "16":
+        "en": "K.Kurpiński „Wiek kwiecisty prędko płynie...” from „Leśniczy z Kozienickiej Puszczy” (Zośka)"
+    "17":
+        "en": "K.Kurpiński „Spojrzenia tkliwe, uczucia żywe...” from „Czaromysł” (Wandala)"
+    "18":
+        "en": "J.Massenet „Obêissons quand leur voix appelle” from „Manon” (Manon)"
+    "19":
+        "en": "W.A.Mozart „Ach, ich fühl’s” from „Die Zauberflöte” (Pamina)"
+    "20":
+        "en": "W.A.Mozart „Vedrai, carino” from „Don Giovanni” (Zerlina)"
+    "21":
+        "en": "W.A.Mozart “Giunse alfin il momento... Deh, vieni, non tardar...” from “Le Nozze di Figaro” (Susanna)"
+    "22":
+        "en": "W.A.Mozart “Venite inginocchiatevi” from “Le Nozze di Figaro” (Susanna)"
+    "23":
+        "en": "G.Puccini „O mio babbino caro” from „Gianni Schicchi” (Lauretta)"
+    "24":
+        "en": "M.Rimski-Korsakow „С подружками по ягоду ходить” from „Снегурочка” (Снегурочка)"
+    "25":
+        "en": "G.Verdi „Gualtier Maldè... Caro nome...” from “Rigoletto” (Gilda)"
+    "26":
+        "en": "G.Verdi „Tutte le feste” from „Rigoletto” (Gilda)"
+    "27":
+        "en": "C.M. von Weber „Kommt ein schlanken...” from “Der Freischütz” (Ännchen)"
+    "28":
+        "en": "W.Żeleński „Tam orzeł na turniami...” from „Janek” (Bronka)"
