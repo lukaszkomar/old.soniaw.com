@@ -5,11 +5,14 @@
 {% endif %}
 
 
-#
 {% for g in site.gallery %}
-<h2>tpl {{ g[1].title.pl }}</h2> 
 <h2>{{ g[1].title[page.lang] }}</h2> 
 <p>{{ g[1].desc[page.lang] }}</p>
+<div class="gal">
+{% for img in g[1].images %}
+  <a class="thumb-link" href="p/img/g/{{ g[0]] }}/{{ img[1] }}.jpg" data-lightbox="{{ g[1].title[page.lang] }}" data-title="{{ g[1].title[page.lang] }}"><img class="thumb" src="p/img/g/{{ g[0]] }}/{{ img[1] }}m.jpg" alt="{{ g[1].title[page.lang] }}"></a>
+{% endfor %}
+</div>
 {% endfor %}
 
 
