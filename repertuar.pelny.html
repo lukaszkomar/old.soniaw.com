@@ -8,3 +8,7 @@ priority: 0.8
 {{ site.xxx.yyy.1 }}
 #
 {{ site.aaa }}
+
+{% for record in site.xxx.yyy %}
+r{{ record }}
+{% endfor %}
