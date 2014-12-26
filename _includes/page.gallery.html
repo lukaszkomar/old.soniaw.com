@@ -8,8 +8,8 @@
 #
 {% for g in site.gallery %}
 <h2>tpl {{ g[1].title.pl }}</h2> 
-<h2>{{ g.title[page.lang] }}</h2> 
-<p>{{ g.desc[page.lang] }}</p>
+<h2>{{ g[1].title[page.lang] }}</h2> 
+<p>{{ g[1].desc[page.lang] }}</p>
 {% endfor %}
 
 
