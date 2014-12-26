@@ -28,16 +28,17 @@ xxx:
     "1": test
     "2": test
     "3": test
-
+	
+	
 gallery:
   "tarnobrzeg":
     "title":
-      "pl": tyt
-      "en": title  
+      "pl": "Tarnobrzeg"
+      "en": "Tarnobrzeg"
     "desc":
-      "pl": opis
-      "en": descgg
+      "pl": "Jubileusz 40-lecia Państwowej Szkoły Muzycznej w Tarnobrzegu 27.10.2014r"
+      "en": "Tarnobrzeg 27.10.2014r"
     "images":
       "01": "tarnobrzeg1"	
-      "02": "tarnobrzeg1"	
-      "03": "tarnobrzeg1"	
+      "02": "tarnobrzeg2"	
+      "03": "tarnobrzeg3"	
