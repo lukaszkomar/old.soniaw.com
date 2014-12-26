@@ -34,7 +34,7 @@ gallery:
     title:
       pl: tyt
       en: title  
-    desc:
-      pl: opis
-      en: descgg	
+    "desc":
+      "pl": opis
+      "en": descgg	
 	  
