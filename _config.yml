@@ -41,4 +41,21 @@ gallery:
     "images":
       "01": "tarnobrzeg1"	
       "02": "tarnobrzeg2"	
-      "03": "tarnobrzeg3"	
+      "03": "tarnobrzeg3"
+
+  "bukowno14":
+    "title":
+      "pl": "Bukowno"
+      "en": "Bukowno"
+    "desc":
+      "pl": "Koncert w Miejskim Ośrodku Kultury w Bukownie, 14.11.2014r. Wraz z Sylwią Frączek (sopran) i Aleksandrem Bardasau (baryton)"
+      "en": "Concert in Municipal Cultural Centere in Bukowno with Sylwia Frączek (soprano) and Aleksandr Bardasau (baritone), 14.11.2014."
+    "images":
+      "01": "bukowno1"	
+      "02": "bukowno2"	
+      "03": "bukowno3"	
+      "04": "bukowno4"	
+      "05": "bukowno5"	
+      "06": "bukowno6"	
+      "07": "bukowno7"	
+      "08": "bukowno8"	
