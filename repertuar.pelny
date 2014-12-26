@@ -1,0 +1,13 @@
+---
+layout: page
+lang: pl
+title: Pełny repertuar - Sonia Warzyńska - sopran
+priority: 0.8
+---
+
+{% include page.test.html %}
+
+##
+{%% xxx.yyy.zzz %%}
+
+{%% aaa %%}
