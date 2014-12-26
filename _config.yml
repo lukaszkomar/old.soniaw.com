@@ -23,10 +23,11 @@ timezone: Europe/Warsaw
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:title/
 
+aa:
+  bb: napis
 
 xxx: 
   yyy: 
     zzz: test
 
-	
 aaa: abc
