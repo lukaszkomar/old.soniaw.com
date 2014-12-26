@@ -30,11 +30,10 @@ xxx:
     "3": test
 
 gallery:
-  testgal:
-    title:
-      pl: tyt
-      en: title  
+  "testgal":
+    "title":
+      "pl": tyt
+      "en": title  
     "desc":
       "pl": opis
-      "en": descgg	
-	  
+      "en": descgg
