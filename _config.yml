@@ -28,3 +28,13 @@ xxx:
     "1": test
     "2": test
     "3": test
+
+gallery:
+  testgal:
+    title:
+      pl: tyt
+      en: tit	  
+	desc:
+      pl: opis
+      en: desc	
+	  
