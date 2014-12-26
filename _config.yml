@@ -30,18 +30,6 @@ xxx:
     "3": test
 
 gallery:
-  "tarnobrzeg":
-    "title":
-      "pl": "Tarnobrzeg"
-      "en": "Tarnobrzeg"
-    "desc":
-      "pl": "Jubileusz 40-lecia Państwowej Szkoły Muzycznej w Tarnobrzegu 27.10.2014r"
-      "en": "Tarnobrzeg 27.10.2014r"
-    "images":
-      "01": "tarnobrzeg1"	
-      "02": "tarnobrzeg2"	
-      "03": "tarnobrzeg3"
-
   "bukowno2014":
     "title":
       "pl": "Bukowno"
@@ -58,3 +46,27 @@ gallery:
       "06": "bukowno6"	
       "07": "bukowno7"	
       "08": "bukowno8"	
+
+  "tarnobrzeg":
+    "title":
+      "pl": "Tarnobrzeg"
+      "en": "Tarnobrzeg"
+    "desc":
+      "pl": "Jubileusz 40-lecia Państwowej Szkoły Muzycznej w Tarnobrzegu 27.10.2014r"
+      "en": "Tarnobrzeg 27.10.2014r"
+    "images":
+      "01": "tarnobrzeg1"	
+      "02": "tarnobrzeg2"	
+      "03": "tarnobrzeg3"
+
+  "wroclaw":
+    "title":
+      "pl": "Platinum Palace Wrocław"
+      "en": "Platinum Palace Wrocław"
+    "desc":
+      "pl": "Koncert w ramach Aukcji Młodej Sztuki III, Platinum Palace we Wrocławiu, 18.10.2014r."
+      "en": "Platinum Palace Wrocław, 18.20.2014r."
+    "images":
+      "01": "wroclaw1"	
+      "02": "wroclaw2"
+      
