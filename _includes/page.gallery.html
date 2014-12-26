@@ -7,7 +7,7 @@
 
 #
 {% for g in site.gallery %}
-<h2>{{ g.title[pl] }}</h2> 
+<h2>{{ g.title.pl }}</h2> 
 <h2>{{ g.title[page.lang] }}</h2> 
 <p>{{ g.desc[page.lang] }}</p>
 {% endfor %}
