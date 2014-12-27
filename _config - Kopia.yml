@@ -149,119 +149,125 @@ repertoire:
     "28":
         "en": "W.Żeleński „Tam orzeł na turniami...” from „Janek” (Bronka)"
 
-        
-        
-Sacred Arias:
-G.B.Pergolesi „Vidit suum” from „Stabat mater”
+  "sacred":
+    "01":
+      "en": "G.B.Pergolesi „Vidit suum” from „Stabat mater”"
+    "02":  
+      "en": "J.S.Bach „Quia respexit” from „Magnificat”"
+    "03":  
+      "en": "J.S.Bach „Er hat uns allen wohlgetan... Aus Liebe will mein Heiland sterben” from “Die Matthäus-Passion”"
+    "04":  
+      "en": "J.Haydn “Nun beut die Flur das frische Grün” from “Die Schöpfung” (Gabriel)"
 
-J.S.Bach „Quia respexit” from „Magnificat”
 
-J.S.Bach „Er hat uns allen wohlgetan... Aus Liebe will mein Heiland sterben” from “Die Matthäus-Passion”
+  "songs":
+    "01":  
+      "en": "S.Barber „Puisque tout passe”"
+    "02":  
+      "en": "F.Chopin „Piosnka litewska”"
+    "03":  
+      "en": "F.Chopin „Poseł”"
+    "04":  
+      "en": "F.Chopin „Wiosna”"
+    "05":  
+      "en": "C.Debussy „Nuit d’étoiles”"
+    "06":  
+      "en": "E.Granados “El majo discreto”"
+    "07":  
+      "en": "R.Hahn „Si mes vers avaient des ailes”"
+    "08":  
+      "en": "M.Karłowicz “Rdzawe liście”"
+    "09":  
+      "en": "F.Liszt „Oh, quand je dors”"
+    "10":  
+      "en": "F.Maklakiewicz “A jeśli chcesz zapomnieć”"
+    "11":  
+      "en": "F.Maklakiewicz “Kocham Cię”"
+    "12":  
+      "en": "S.Moniuszko “Dumka”"
+    "13":  
+      "en": "S.Moniuszko „Złota rybka”"
+    "14":  
+      "en": "S.Niewiadomski „Otwórz, Janku”"
+    "15":  
+      "en": "S.Niewiadomski „Śmieją się złote łany”"
+    "16":  
+      "en": "F.Nowowiejski „Pieśń miłosna”"
+    "17":  
+      "en": "I.J.Paderewski „Gdy ostatnia róża zwiędła” from „4 Songs to Poems by Adam Asnyk”"
+    "18":  
+      "en": "I.J.Paderewski „Lune froide” from „12 Songs to Poems by Catulle Mendès”"
+    "19":  
+      "en": "I.J.Paderewski „Moja pieszczotka” from „6  Songs to Poems by Adam Mickiewicz”"
+    "20":  
+      "en": "I.J.Paderewski „Nad wodą wielką i czystą” from „6 Songs to Poems by Adam Mickiewicz”"
+    "21":  
+      "en": "I.J.Paderewski „Ton coeur est d’or pur” from „12 Songs to Poems by Catulle Mendès”"
+    "22":  
+      "en": "P.Perkowski „Uty japońskie” (the whole cycle)"
+    "23":  
+      "en": "A.Rubinstein „Ночь”"
+    "24":  
+      "en": "S.Rachmaninow „Полюбилая”"
+    "25":  
+      "en": "S.Rachmaninow „Здесь хорошо”"
+    "26":  
+      "en": "R.Schumann “Das Lied der Suleika” from „Liederkreis”"
+    "27":  
+      "en": "R.Schumann „Die Lotosblume” from „Liederkreis”"
+    "28":  
+      "en": "R.Schumann „Mondnacht” from „Liederkreis”"
+    "29":  
+      "en": "J.Szulc „Claire de lune”"
+    "30":  
+      "en": "K.Szymanowski “ Christkindleins Wiegenlied”"
+    "31":  
+      "en": "K.Szmanowski „Zielone słowa”"
+    "32":  
+      "en": "W.Żeleński „Blada róża”"
 
-J.Haydn “Nun beut die Flur das frische Grün” from “Die Schöpfung” (Gabriel)
+  "duets":
+    "01":  
+      "en": "P.Czajkowski „Final scene” from „Eugene Oniegin”"
+    "02":  
+      "en": "L.Delibes “Flower Duet” from. „Lakmé”"
+    "03":  
+      "en": "W.A.Mozart Susanna&Conte duet “Crudel, perchè finora” from „Le Nozze di Figaro”"
+    "04":  
+      "en": "W.A.Mozart Susanna&Figaro duet „Cinque, dieci” from „Le Nozze di Figaro”"
+    "05":  
+      "en": "W.A.Mozart Susanna&Figaro duet „Se a caso madama” from „Le Nozze di Figaro”"
+    "06":  
+      "en": "W.A.Mozart Susanna&Marcellina duet „Via resti servita” from „Le Nozze di Figaro”"
+    "07":  
+      "en": "W.A.Mozart Susanna&Contessa duet „Sull’aria” from „Le Nozze di Figaro”"
+    "08":  
+      "en": "W.A.Mozart Zerlina&Don Giovanni duet „La ci darem la mano” from „Don Giovanni”"
+    "09":  
+      "en": "W.A.Mozart Annius&Servillia duet „Ah, perdona al primo affetto” from “Clemenza di Tito”"
+    "10":  
+      "en": "G.Rossini “Cat’s Duet”"
+    "11":  
+      "en": "G.Rossini duet „La regata veneziana”"
+    "12":  
+      "en": "G.Verdi Violetta&Germont duet „Madamigella Valery...” from “Traviata”"
 
-
-Songs:
-S.Barber „Puisque tout passe”
-
-F.Chopin „Piosnka litewska”
-
-F.Chopin „Poseł”
-
-F.Chopin „Wiosna”
-
-C.Debussy „Nuit d’étoiles”
-
-E.Granados “El majo discreto”
-
-R.Hahn „Si mes vers avaient des ailes”
-
-M.Karłowicz “Rdzawe liście”
-
-F.Liszt „Oh, quand je dors”
-
-F.Maklakiewicz “A jeśli chcesz zapomnieć”
-
-F.Maklakiewicz “Kocham Cię”
-
-S.Moniuszko “Dumka”
-
-S.Moniuszko „Złota rybka”
-
-S.Niewiadomski „Otwórz, Janku”
-
-S.Niewiadomski „Śmieją się złote łany”
-
-F.Nowowiejski „Pieśń miłosna”
-
-I.J.Paderewski „Gdy ostatnia róża zwiędła” from „4 Songs to Poems by Adam Asnyk”
-
-I.J.Paderewski „Lune froide” from „12 Songs to Poems by Catulle Mendès”
-
-I.J.Paderewski „Moja pieszczotka” from „6  Songs to Poems by Adam Mickiewicz”
-
-I.J.Paderewski „Nad wodą wielką i czystą” from „6 Songs to Poems by Adam Mickiewicz”
-
-I.J.Paderewski „Ton coeur est d’or pur” from „12 Songs to Poems by Catulle Mendès”
-
-P.Perkowski „Uty japońskie” (the whole cycle)
-
-A.Rubinstein „Ночь”
-
-S.Rachmaninow „Полюбилая”
-
-S.Rachmaninow „Здесь хорошо”
-
-R.Schumann “Das Lied der Suleika” from „Liederkreis”
-
-R.Schumann „Die Lotosblume” from „Liederkreis”
-
-R.Schumann „Mondnacht” from „Liederkreis”
-
-J.Szulc „Claire de lune”
-
-K.Szymanowski “ Christkindleins Wiegenlied”
-
-K.Szmanowski „Zielone słowa”
-
-W.Żeleński „Blada róża”
-
-Duets:
-P.Czajkowski „Final scene” from „Eugene Oniegin”
-
-L.Delibes “Flower Duet” from. „Lakmé”
-
-W.A.Mozart Susanna&Conte duet “Crudel, perchè finora” from „Le Nozze di Figaro”
-
-W.A.Mozart Susanna&Figaro duet „Cinque, dieci” from „Le Nozze di Figaro”
-
-W.A.Mozart Susanna&Figaro duet „Se a caso madama” from „Le Nozze di Figaro”
-
-W.A.Mozart Susanna&Marcellina duet „Via resti servita” from „Le Nozze di Figaro”
-
-W.A.Mozart Susanna&Contessa duet „Sull’aria” from „Le Nozze di Figaro”
-
-W.A.Mozart Zerlina&Don Giovanni duet „La ci darem la mano” from „Don Giovanni”
-
-W.A.Mozart Annius&Servillia duet „Ah, perdona al primo affetto” from “Clemenza di Tito”
-
-G.Rossini “Cat’s Duet”
-
-G.Rossini duet „La regata veneziana”
-
-G.Verdi Violetta&Germont duet „Madamigella Valery...” from “Traviata”
-
-Others:
-L.Dalla „Caruso”
-
-W.Kilar „Vocalise” from film „Dziewiąte wrota”
-
-F.Lehar „Kiedy skrzypki grają”
-
-E.Morricone „Nella fantasia” from film „Misja”
-
-J.Offenbach „Aria ze śmiechem”
-
+  "others":
+    "01":  
+      "en": "L.Dalla „Caruso”"
+      "pl": "L.Dalla „Caruso”"
+    "02":  
+      "en": "W.Kilar „Vocalise” from film „Dziewiąte wrota”"
+      "pl": "W.Kilar „Wokaliza” z filmu „Dziewiąte wrota”"
+    "03":  
+      "en": "F.Lehar „Kiedy skrzypki grają”"
+      "pl": "F.Lehar „Kiedy skrzypki grają”"
+    "04":  
+      "en": "E.Morricone „Nella fantasia” from film „Misja”"
+      "pl": "E.Morricone „Nella fantasia” z filmu „Misja”"
+    "05":  
+      "en": "J.Offenbach „Aria ze śmiechem”"
+      "pl": "J.Offenbach „Aria ze śmiechem”"
 
 
 Arie:
@@ -418,14 +424,4 @@ G.Rossini duet kotów
 G.Rossini duet „La regata veneziana”
 
 G.Verdi duet Violetty i Germonta „Madamigella Valery...” z op. “Traviata”
-
-Inne:
-L.Dalla „Caruso”
-
-W.Kilar „Wokaliza” z filmu „Dziewiąte wrota”
-
-F.Lehar „Kiedy skrzypki grają”
-
-E.Morricone „Nella fantasia” z filmu „Misja”
-
-J.Offenbach „Aria ze śmiechem”	
+	
