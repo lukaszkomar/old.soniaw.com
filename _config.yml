@@ -221,7 +221,7 @@ repertoire:
           "pl": "G.Caccini “Amarilli, mia bella”"
       "06":
           "en": "P.Czajkowski “Отчего это прежде не знала” from “Iolanta” (Iolanta)"
-          "pl": "P.Czajkowski “Отчего это прежде не знала” z op. “Iolanta” (Iolanta)"
+          "pl": "P.Czajkowski “Отчего это прежде не знала” z opery “Iolanta” (Iolanta)"
       "07":
           "en": "G.Donizetti „Il faut partir” from „La fille du régiment” (Maria)"
           "pl": "G.Donizetti „Il faut partir” z opery „Córka pułku” (Maria)"
@@ -254,7 +254,7 @@ repertoire:
           "pl": "K.Kurpiński „Wiek kwiecisty prędko płynie...” z opery „Leśniczy z Kozienickiej Puszczy” (Zośka)"
       "17":
           "en": "K.Kurpiński „Spojrzenia tkliwe, uczucia żywe...” from „Czaromysł” (Wandala)"
-          "pl": "K.Kurpiński „Spojrzenia tkliwe, uczucia żywe...” from „Czaromysł” (Wandala)"
+          "pl": "K.Kurpiński „Spojrzenia tkliwe, uczucia żywe...” z opery „Czaromysł” (Wandala)"
       "18":
           "en": "J.Massenet „Obêissons quand leur voix appelle” from „Manon” (Manon)"
           "pl": "J.Massenet „Obêissons quand leur voix appelle” z opery „Manon” (Manon)"
@@ -416,31 +416,31 @@ repertoire:
     "items":  
       "01":  
         "en": "P.Czajkowski „Final scene” from „Eugene Oniegin”"
-        "pl": "P.Czajkowski Scena finałowa z op. „Eugeniusz Oniegin”"
+        "pl": "P.Czajkowski Scena finałowa z opery „Eugeniusz Oniegin”"
       "02":  
         "en": "L.Delibes “Flower Duet” from. „Lakmé”"
-        "pl": "L.Delibes duet kwiatów z op. „Lakmé”"
+        "pl": "L.Delibes duet kwiatów z opery „Lakmé”"
       "03":  
         "en": "W.A.Mozart Susanna&Conte duet “Crudel, perchè finora” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Hrabiego “Crudel, perchè finora” z op. „Wesele Figara”"
+        "pl": "W.A.Mozart duet Zuzanny i Hrabiego “Crudel, perchè finora” z opery „Wesele Figara”"
       "04":  
         "en": "W.A.Mozart Susanna&Figaro duet „Cinque, dieci” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Figara „Cinque, dieci” z op. „Wesele Figara”"
+        "pl": "W.A.Mozart duet Zuzanny i Figara „Cinque, dieci” z opery „Wesele Figara”"
       "05":  
         "en": "W.A.Mozart Susanna&Figaro duet „Se a caso madama” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Figara „Se a caso madama” z op. „Wesele Figara”"
+        "pl": "W.A.Mozart duet Zuzanny i Figara „Se a caso madama” z opery „Wesele Figara”"
       "06":  
         "en": "W.A.Mozart Susanna&Marcellina duet „Via resti servita” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Marcelliny „Via resti servita” z op. „Wesele Figara”"
+        "pl": "W.A.Mozart duet Zuzanny i Marcelliny „Via resti servita” z opery „Wesele Figara”"
       "07":  
         "en": "W.A.Mozart Susanna&Contessa duet „Sull’aria” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Hrabiny „Sull’aria” z op. „Wesele Figara”"
+        "pl": "W.A.Mozart duet Zuzanny i Hrabiny „Sull’aria” z opery „Wesele Figara”"
       "08":  
         "en": "W.A.Mozart Zerlina&Don Giovanni duet „La ci darem la mano” from „Don Giovanni”"
-        "pl": "W.A.Mozart duet Zerliny i Don Giovanniego „La ci darem la mano” z op. „Don Giovanni”"
+        "pl": "W.A.Mozart duet Zerliny i Don Giovanniego „La ci darem la mano” z opery „Don Giovanni”"
       "09":  
         "en": "W.A.Mozart Annius&Servillia duet „Ah, perdona al primo affetto” from “Clemenza di Tito”"
-        "pl": "W.A.Mozart duet Anniusa i Servilii „Ah, perdona al primo affetto” z op. „Łaskawość Tytusa”"
+        "pl": "W.A.Mozart duet Anniusa i Servilii „Ah, perdona al primo affetto” z opery „Łaskawość Tytusa”"
       "10":  
         "en": "G.Rossini “Cat’s Duet”"
         "pl": "G.Rossini duet kotów"
@@ -449,7 +449,7 @@ repertoire:
         "pl": "G.Rossini duet „La regata veneziana”"
       "12":  
         "en": "G.Verdi Violetta&Germont duet „Madamigella Valery...” from “Traviata”"
-        "pl": "G.Verdi Violetta&Germont duet „Madamigella Valery...” from “Traviata”"
+        "pl": "G.Verdi Violetta&Germont duet „Madamigella Valery...”  z opery “Traviata”"
 
   "others":
     "title":
