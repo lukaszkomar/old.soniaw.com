@@ -65,7 +65,115 @@ gallery:
       "01": "wroclaw1"	
       "02": "wroclaw2"
 
+  "baranowska":
+    "title":
+      "pl": "Sesja fotograficzna 2014"
+      "en": "Photo session"
+    "desc":
+      "pl": "fot. Zofia Baranowska"
+      "en": "by Zofia Baranowska"
+    "images":
+      "01": "baranowska1"	
+      "02": "baranowska2"
+      "03": "baranowska3"
 
+  "estivales2014":
+    "title":
+      "pl": "Estivales En Puisaye 2014"
+      "en": "Estivales En Puisaye 2014"
+    "desc":
+      "pl": "II sopran w “Mszy c-moll” Mozarta, 23-24.08.2014r. Briare, Toucy (Francja)"
+      "en": "2nd soprano in “Mass in c minor” by Mozart, 23-24.08.2014. Briare, Toucy (France)"
+    "images":
+      "01": "estivales1"
+
+  "impressioart":
+    "title":
+      "pl": "Impressio Art Sopot 2014"
+      "en": "Impressio Art Sopot 2014"
+    "desc":
+      "pl": "VI Ogólnopolski Konkurs Wokalny Impressio Art Sopot 2014"
+      "en": "6th Countrywide Vocal Competition Impressio Art Sopot 2014"
+    "images":
+      "01": "impressioart1"
+      "02": "impressioart2"
+      "03": "impressioart3"
+      "04": "impressioart4"
+      "05": "impressioart5"
+      "06": "impressioart6"
+
+  "wroclawd":
+    "title":
+      "pl": "Koncert u Dominikanów we Wrocławiu"
+      "en": "Concert at the Dominican Monastery in Wrocław"
+    "desc":
+      "pl": "Koncert u Dominikanów we Wrocławiu, 17.07.2014"
+      "en": "Concert at the Dominican Monastery in Wrocław, 17.07.2014"
+    "images":
+      "01": "wroclawd1"
+      "02": "wroclawd2"
+      "03": "wroclawd3"
+
+  "figaro":
+    "title":
+      "pl": "Wesele Figara"
+      "en": "“Le Nozze di Figaro”"
+    "desc":
+      "pl": "W.A.Mozart “Wesele Figara”. Spektakl odbył się w Operze Krakowskiej 22.05.2014r. Rola Zuzanny."
+      "en": "W.A.Mozart “Le Nozze di Figaro“. Spectacle took place at the Opera House in Cracow. 22.05.2014. The Role of Susanna."
+    "images":
+      "02": "figaro2"
+      "04": "figaro4"
+      "07": "figaro7"
+      "08": "figaro8"
+      "09": "figaro9"
+      "10": "figaro10"
+      "11": "figaro11"
+      "12": "figaro12"
+      "13": "figaro13"
+      "14": "figaro14"
+      "15": "figaro15"
+
+  "rodelinda":
+    "title":
+      "pl": "Rodelinda"
+      "en": "Rodelinda"
+    "desc":
+      "pl": "Georg Friedrich Händel “Rodelinda”. Spektakl studencki, który odbył się 21.04.2013r. w Akademii Muzycznej w Krakowie. Tytułowa partia."
+      "en": "Georg Friedrich Händel “Rodelinda”. Student's performance, which took place on 21.04.2013 at the Academy of Music in Cracow. Title role."
+    "images":
+      "01": "rodelinda1"
+      "02": "rodelinda2"
+      "03": "rodelinda3"
+      "04": "rodelinda4"
+      "05": "rodelinda5"
+      "06": "rodelinda6"
+      "07": "rodelinda7"
+      "08": "rodelinda8"
+      "09": "rodelinda9"
+      "10": "rodelinda10"
+      "11": "rodelinda11"
+      "12": "rodelinda12"
+      "13": "rodelinda13"
+      
+  "bukowno":
+    "title":
+      "pl": "Koncert w Bukownie"
+      "en": "Concert in Bukowno"
+    "desc":
+      "pl": "Koncert odbył się w Miejskim Ośrodku Kultury w Bukownie 11.05.2013r."
+      "en": "Concert took place in Municipal Cultural Centre in Bukowno, 11.05.2013"
+    "images":
+      "01": "bukowno1"	
+      "02": "bukowno2"	
+      "03": "bukowno3"	
+      "04": "bukowno4"	
+      "05": "bukowno5"	
+      "06": "bukowno6"	
+      "07": "bukowno7"
+
+
+# Repertuar
 repertoire:
   "parts":
     "title":
