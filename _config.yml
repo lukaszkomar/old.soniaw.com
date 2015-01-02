@@ -48,7 +48,7 @@ gallery:
       "en": "Tarnobrzeg"
     "desc":
       "pl": "Jubileusz 40-lecia Państwowej Szkoły Muzycznej w Tarnobrzegu 27.10.2014r"
-      "en": "Tarnobrzeg 27.10.2014r"
+      "en": "40'th Anniversary of National Music School in Tarnobrzeg, 27.10.2014"
     "images":
       "01": "tarnobrzeg1"	
       "02": "tarnobrzeg2"	
@@ -60,7 +60,7 @@ gallery:
       "en": "Platinum Palace Wrocław"
     "desc":
       "pl": "Koncert w ramach Aukcji Młodej Sztuki III, Platinum Palace we Wrocławiu, 18.10.2014r."
-      "en": "Platinum Palace Wrocław, 18.20.2014r."
+      "en": "The 3rd Edition of The Young Art Auction, Platinium Palace in Wrocław, 18.10.2014"
     "images":
       "01": "wroclaw1"	
       "02": "wroclaw2"
@@ -110,9 +110,9 @@ gallery:
       "pl": "Koncert u Dominikanów we Wrocławiu, 17.07.2014"
       "en": "Concert at the Dominican Monastery in Wrocław, 17.07.2014"
     "images":
-      "01": "wroclawd1"
-      "02": "wroclawd2"
-      "03": "wroclawd3"
+      "01": "wroclaw1"
+      "02": "wroclaw2"
+      "03": "wroclaw3"
 
   "figaro":
     "title":
