@@ -202,26 +202,17 @@ repertoire:
         "en": "Camille Saint-Saëns ”Oratorio de Noël”"
         "pl": "Camille Saint-Saëns „Oratorium na Boże Narodzenie”"
 
-  "arias":
+  "opera-arias":
     "title":
-      "pl": Arie
-      "en": Arias
+      "en": Opera Arias        
+      "pl": Arie Operowe
     "items":
-      "01":  
-          "en": "L.Arditi „Il bacio”"
-          "pl": "L.Arditi „Il bacio”"
-      "02":
-          "en": "J.S.Bach “Heute noch” from “Kaffeekantate”"
-          "pl": "J.S.Bach “Heute noch” z “Kantaty o kawie”"
       "03":
           "en": "V.Bellini „Eccomi in lieta vesta... Oh, quante volte...” from “Capuleti e i Montecchi” (Julia)"
           "pl": "V.Bellini „Eccomi in lieta vesta... Oh, quante volte...” z opery “Capuleti e i Montecchi” (Julia)"
       "04":
           "en": "G.Bizet “Me voilà seule dans la nuit... Comme autrefois...” from “Les pêcheurs de perles” (Leila)"
           "pl": "G.Bizet “Me voilà seule dans la nuit... Comme autrefois...” z opery “Poławiacze Pereł” (Leila)"
-      "05":
-          "en": "G.Caccini “Amarilli, mia bella”"
-          "pl": "G.Caccini “Amarilli, mia bella”"
       "06":
           "en": "P.Czajkowski “Отчего это прежде не знала” from “Iolanta” (Iolanta)"
           "pl": "P.Czajkowski “Отчего это прежде не знала” z opery “Iolanta” (Iolanta)"
@@ -292,10 +283,25 @@ repertoire:
           "en": "W.Zelenski „Tam orzel na turniami...” from „Janek” (Bronka)"
           "pl": "W.Żeleński „Tam orzeł na turniami...” z opery „Janek” (Bronka)"
 
-  "sacred":
+  "operetta-arias":
     "title":
+      "en": Operetta Arias        
+      "pl": Arie Operetkowe
+    "items":
+      "01":  
+        "en": "F.Lehar „Hör' ich Cymbalklänge” from „Zigeunerliebe”"
+        "pl": "F.Lehar „Kiedy skrzypki grają”"
+      "02":  
+        "en": "F.Lehar „Meine lippen sie küssen so heiß” from “Giuditta”"
+        "pl": "F.Lehar „Kto me usta całuje, ten śni” z operetki “Giuditta”"        
+      "03":  
+        "en": "J.Offenbach „Ah! quel dîner!” from “La Périchole”"
+        "pl": "J.Offenbach „Aria ze śmiechem”"        
+
+  "sacred-arias":
+    "title":
+      "en": Sacred Arias        
       "pl": Arie Sakralne
-      "en": Sacred Arias
     "items":
       "01":
         "en": "G.B.Pergolesi „Vidit suum” from „Stabat mater”"
@@ -424,33 +430,36 @@ repertoire:
         "en": "L.Delibes “Flower Duet” from. „Lakmé”"
         "pl": "L.Delibes duet kwiatów z opery „Lakmé”"
       "03":  
+        "en": "F.Lehar Hanna&Danilo duet „Lippen schweigen” from “Die lustige Witwe”"
+        "pl": "F.Lehar duet Hanny i Danilo „Usta milczą, dusza śpiewa” z operetki „Wesoła wdówka”"
+      "04":  
         "en": "W.A.Mozart Susanna&Conte duet “Crudel, perchè finora” from „Le Nozze di Figaro”"
         "pl": "W.A.Mozart duet Zuzanny i Hrabiego “Crudel, perchè finora” z opery „Wesele Figara”"
-      "04":  
+      "05":  
         "en": "W.A.Mozart Susanna&Figaro duet „Cinque, dieci” from „Le Nozze di Figaro”"
         "pl": "W.A.Mozart duet Zuzanny i Figara „Cinque, dieci” z opery „Wesele Figara”"
-      "05":  
+      "06":  
         "en": "W.A.Mozart Susanna&Figaro duet „Se a caso madama” from „Le Nozze di Figaro”"
         "pl": "W.A.Mozart duet Zuzanny i Figara „Se a caso madama” z opery „Wesele Figara”"
-      "06":  
+      "07":  
         "en": "W.A.Mozart Susanna&Marcellina duet „Via resti servita” from „Le Nozze di Figaro”"
         "pl": "W.A.Mozart duet Zuzanny i Marcelliny „Via resti servita” z opery „Wesele Figara”"
-      "07":  
+      "08":  
         "en": "W.A.Mozart Susanna&Contessa duet „Sull’aria” from „Le Nozze di Figaro”"
         "pl": "W.A.Mozart duet Zuzanny i Hrabiny „Sull’aria” z opery „Wesele Figara”"
-      "08":  
+      "09":  
         "en": "W.A.Mozart Zerlina&Don Giovanni duet „La ci darem la mano” from „Don Giovanni”"
         "pl": "W.A.Mozart duet Zerliny i Don Giovanniego „La ci darem la mano” z opery „Don Giovanni”"
-      "09":  
+      "10":  
         "en": "W.A.Mozart Annius&Servillia duet „Ah, perdona al primo affetto” from “Clemenza di Tito”"
         "pl": "W.A.Mozart duet Anniusa i Servilii „Ah, perdona al primo affetto” z opery „Łaskawość Tytusa”"
-      "10":  
+      "11":  
         "en": "G.Rossini “Cat’s Duet”"
         "pl": "G.Rossini duet kotów"
-      "11":  
+      "12":  
         "en": "G.Rossini duet „La regata veneziana”"
         "pl": "G.Rossini duet „La regata veneziana”"
-      "12":  
+      "13":  
         "en": "G.Verdi Violetta&Germont duet „Madamigella Valery...” from “Traviata”"
         "pl": "G.Verdi Violetta&Germont duet „Madamigella Valery...”  z opery “Traviata”"
 
@@ -458,19 +467,20 @@ repertoire:
     "title":
       "pl": Inne
       "en": Others
-    "items":  
+    "items": 
       "01":  
+        "en": "L.Arditi „Il bacio”"
+        "pl": "L.Arditi „Il bacio”"        
+      "02":
+        "en": "G.Caccini “Amarilli, mia bella”"
+        "pl": "G.Caccini “Amarilli, mia bella”"        
+      "03":  
         "en": "L.Dalla „Caruso”"
         "pl": "L.Dalla „Caruso”"
-      "02":  
-        "en": "W.Kilar „Vocalise” from film „The Ninth Gate”"
-        "pl": "W.Kilar „Wokaliza” z filmu „Dziewiąte wrota”"
-      "03":  
-        "en": "F.Lehar „Kiedy skrzypki grają”"
-        "pl": "F.Lehar „Kiedy skrzypki grają”"
       "04":  
+        "en": "W.Kilar „Vocalise” from film „The Ninth Gate”"
+        "pl": "W.Kilar „Wokaliza” z filmu „Dziewiąte wrota”"        
+      "05":  
         "en": "E.Morricone „Nella fantasia” from film „The Mission”"
         "pl": "E.Morricone „Nella fantasia” z filmu „Misja”"
-      "05":  
-        "en": "J.Offenbach „Aria ze smiechem”"
-        "pl": "J.Offenbach „Aria ze śmiechem”"
+
