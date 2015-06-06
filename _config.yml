@@ -186,7 +186,7 @@ gallery:
       "04": "bukowno4"	
       "05": "bukowno5"	
       "06": "bukowno6"	
-      "07": "bukowno7"
+#      "07": "bukowno7"
 
 
 # Struktura Repertuaru
@@ -200,21 +200,24 @@ repertoire:
         "en": "W.A.Mozart „Le Nozze di Figaro”: Susanna"
         "pl": "W.A.Mozart „Wesele Figara„: Zuzanna"
       "02":
+        "pl": "F.Lehár​ ”Wesoła wdówka”: Hanna Glawari"
+        "en": "F.Lehár ”Die lustige Witwe”: Hanna Glawari"	  
+      "03":
         "en": "G.F.Händel „Rodelinda”: Rodelinda"
         "pl": "G.F.Händel „Rodelinda”: Rodelinda"
-      "03":
+      "04":
         "en": "H.Purcell „The Fairyqueen”: Nyph, Night"
         "pl": "H.Purcell „The Fairyqueen”: Nyph, Night"
-      "04":
+      "05":
         "en": "W.A.Mozart „Requiem in d minor”"
         "pl": "W.A.Mozart „Requiem d-moll”"
-      "05":
+      "06":
         "en": "W.A.Mozart „Messe in c minor”"
         "pl": "W.A.Mozart „Msza c-moll”"
-      "06":
+      "07":
         "en": "J.Haydn „Missa in augustiis”"
         "pl": "J.Haydn „Msza nelsońska”"
-      "07":
+      "08":
         "en": "Camille Saint-Saëns ”Oratorio de Noël”"
         "pl": "Camille Saint-Saëns „Oratorium na Boże Narodzenie”"
 
