@@ -55,7 +55,7 @@ gallery:
       "04": "bukowno4"	
       "05": "bukowno5"	
       "06": "bukowno6"	
-      "07": "bukowno7"	
+#      "07": "bukowno7"	
       "08": "bukowno8"	
 
   "tarnobrzeg":
@@ -186,7 +186,7 @@ gallery:
       "04": "bukowno4"	
       "05": "bukowno5"	
       "06": "bukowno6"	
-#      "07": "bukowno7"
+      "07": "bukowno7"
 
 
 # Struktura Repertuaru
