@@ -5,13 +5,13 @@
 {% endif %}
 
 #
-fqw
+fqwe
 {% for section in site.repertoire %}
 <h4>{{ section[1].title[page.lang] }}</h4>
 
 {% assign firstLevel = section[1] %}
 
-{{ firstLevel.title.pl }}
+{{ firstLevel.nested }}
 
 n{{ section[1].nested }}n
 
