@@ -196,6 +196,7 @@ repertoire:
     "title":
       "pl": Partie
       "en": Parts
+    "nested": 0
     "items":
       "01":
         "pl": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
@@ -229,6 +230,7 @@ repertoire:
     "title":
       "pl": "Arie operowe"
       "en": "Opera Arias"
+    "nested": 1
     "items":
       "italian":
         "title":
@@ -375,6 +377,7 @@ repertoire:
     "title":
       "pl": "Arie Operetkowe"
       "en": "Operetta Arias"
+    "nested": 0
     "items":
       "01":
         "pl": "F.Lehar „Kiedy skrzypki grają” z operetki „Cygańska miłość” (Ilona)"
@@ -393,6 +396,7 @@ repertoire:
     "title":
       "pl": "Pieśni"
       "en": "Songs"
+    "nested": 1
     "items":
       "french":
         "title":
@@ -545,6 +549,7 @@ repertoire:
     "title":
       "pl": "Arie Sakralne"
       "en": "Sacred Arias"
+    "nested": 0
     "items":
       "01":
         "pl": "G.B.Pergolesi „Vidit suum” z oratorium „Stabat mater”"
@@ -563,6 +568,7 @@ repertoire:
     "title":
       "pl": "Duety"
       "en": "Duets"
+    "nested": 0
     "items":
       "01":
         "pl": "P.Czajkowski scena finałowa z opery „Eugeniusz Oniegin”"
