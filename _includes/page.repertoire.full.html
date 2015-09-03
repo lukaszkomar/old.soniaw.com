@@ -4,9 +4,22 @@
 <h3>Repertoire:</h3>
 {% endif %}
 
+#
+f
+{% for section in site.repertoire %}
+<h4>{{ section.title[page.lang] }}</h4>
+n
+{% if section.nested %}
+nested
+{% endif %}
+n
+{% endfor %}
+f
+#
+
 {% for section in site.repertoire %}
 <h4>{{ section[1].title[page.lang] }}</h4>
-{% if section[1].items.items %}
+{% if section[1].nested %}
     <h3>{{ section[1].items.title[page.lang] }}</h3>
     <ul>
       {% for item in section[1].items.items %}
