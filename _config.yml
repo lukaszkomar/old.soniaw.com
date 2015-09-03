@@ -196,7 +196,7 @@ repertoire:
     "title":
       "pl": Partie
       "en": Parts
-    "nested": 0
+    "nested": false
     "items":
       "01":
         "pl": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
