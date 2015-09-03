@@ -191,315 +191,418 @@ gallery:
 
 # Struktura Repertuaru
 repertoire:
+
   "parts":
     "title":
       "pl": Partie
       "en": Parts
     "items":
       "01":
-        "en": "W.A.Mozart „Le Nozze di Figaro”: Susanna"
-        "pl": "W.A.Mozart „Wesele Figara„: Zuzanna"
+        "pl": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
+        "en": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
       "02":
-        "pl": "F.Lehár​ ”Wesoła wdówka”: Hanna Glawari"
-        "en": "F.Lehár ”Die lustige Witwe”: Hanna Glawari"	  
+        "pl": "W.A.Mozart „Wesele Figara”: Zuzanna"
+        "en": "W.A.Mozart „Le Nozze di Figaro”: Susanna"
       "03":
-        "en": "G.F.Händel „Rodelinda”: Rodelinda"
+        "pl": "F.Lehár „Wesoła wdówka”: Hanna Glawari"
+        "en": "F.Lehár „Die lustige Witwe”: Hanna Glawari"
+      "04":
         "pl": "G.F.Händel „Rodelinda”: Rodelinda"
-      "04":
-        "en": "H.Purcell „The Fairyqueen”: Nyph, Night"
-        "pl": "H.Purcell „The Fairyqueen”: Nyph, Night"
+        "en": "G.F.Händel „Rodelinda”: Rodelinda"
       "05":
-        "en": "W.A.Mozart „Requiem in d minor”"
+        "pl": "H.Purcell „The Fairyqueen”: Nyph, Night"
+        "en": "H.Purcell „The Fairyqueen”: Nyph, Night"
+      "06":
         "pl": "W.A.Mozart „Requiem d-moll”"
-      "06":
-        "en": "W.A.Mozart „Messe in c minor”"
+        "en": "W.A.Mozart „Requiem in d minor”"
+      "07":
         "pl": "W.A.Mozart „Msza c-moll”"
-      "07":
-        "en": "J.Haydn „Missa in augustiis”"
-        "pl": "J.Haydn „Msza nelsońska”"
+        "en": "W.A.Mozart „Messe in c minor”"
       "08":
-        "en": "Camille Saint-Saëns ”Oratorio de Noël”"
-        "pl": "Camille Saint-Saëns „Oratorium na Boże Narodzenie”"
-
-  "opera-arias":
-    "title":
-      "en": Opera Arias        
-      "pl": Arie Operowe
-    "items":
-      "03":
-          "en": "V.Bellini „Eccomi in lieta vesta... Oh, quante volte...” from “Capuleti e i Montecchi” (Julia)"
-          "pl": "V.Bellini „Eccomi in lieta vesta... Oh, quante volte...” z opery “Capuleti e i Montecchi” (Julia)"
-      "04":
-          "en": "G.Bizet “Me voilà seule dans la nuit... Comme autrefois...” from “Les pêcheurs de perles” (Leila)"
-          "pl": "G.Bizet “Me voilà seule dans la nuit... Comme autrefois...” z opery “Poławiacze Pereł” (Leila)"
-      "06":
-          "en": "P.Czajkowski “Отчего это прежде не знала” from “Iolanta” (Iolanta)"
-          "pl": "P.Czajkowski “Отчего это прежде не знала” z opery “Iolanta” (Iolanta)"
-      "07":
-          "en": "G.Donizetti „Il faut partir” from „La fille du régiment” (Maria)"
-          "pl": "G.Donizetti „Il faut partir” z opery „Córka pułku” (Maria)"
-      "08":        
-          "en": "G.Donizetti „Salut a la France” from „La fille du régiment” (Maria)"
-          "pl": "G.Donizetti „Salut a la France” z opery „Córka pułku” (Maria)"
+        "pl": "J.Haydn „Msza nelsońska”"
+        "en": "J.Haydn „Messe in augustiis”"
       "09":
-          "en": "G.Donizetti “Quel guardo il cavaliere... So anch’io...” from “Don Pasquale” (Norina)"
-          "pl": "G.Donizetti “Quel guardo il cavaliere... So anch’io...” z opery “Don Pasquale” (Norina)"
-      "10":
-          "en": "G.Donizetti “Regnava nel silenzio... Quando rapito in estasi...” from “Lucia di Lammermoor” (Lucia)"
-          "pl": "G.Donizetti “Regnava nel silenzio... Quando rapito in estasi...” z opery “Łucja z Lammermoor” (Łucja)"
-      "11":
-          "en": "A.Dvořak “Měsičku na nebe hlubokem” from “Rusalka” (Rusalka)"
-          "pl": "A.Dvořak “Měsičku na nebe hlubokem” z opery “Rusałka” (Rusałka)"
-      "12":
-          "en": "J.Haydn „Infelice sventurata” from „I due supposti Conti” (Beatrice)"
-          "pl": "J.Haydn „Infelice sventurata” z opery „I due supposti Conti” (Beatrycze)"
-      "13":
-          "en": "G.F.Händel „Tornami z vagheggiar” from „Alcina” (Morgana)"
-          "pl": "G.F.Händel „Tornami z vagheggiar” z opery „Alcina” (Morgana)"
-      "14":
-          "en": "G.F.Händel „Piangeró la sorte mia” from „Giulio Cesare” (Cleopatra)"
-          "pl": "G.F.Händel „Piangeró la sorte mia” z opery „Juliusz Cezar” (Kleopatra)"
-      "15":
-          "en": "G.F.Händel „Lascia ch’io pianga” from „Rinaldo”"
-          "pl": "G.F.Händel „Lascia ch’io pianga” z opery „Rinaldo”"
-      "16":
-          "en": "K.Kurpinski „Wiek kwiecisty predko plynie...” from „Lesniczy z Kozienickiej Puszczy” (Zośka)"
-          "pl": "K.Kurpiński „Wiek kwiecisty prędko płynie...” z opery „Leśniczy z Kozienickiej Puszczy” (Zośka)"
-      "17":
-          "en": "K.Kurpinski „Spojrzenia tkliwe, uczucia zywe...” from „Czaromysl” (Wandala)"
-          "pl": "K.Kurpiński „Spojrzenia tkliwe, uczucia żywe...” z opery „Czaromysł” (Wandala)"
-      "18":
-          "en": "J.Massenet „Obêissons quand leur voix appelle” from „Manon” (Manon)"
-          "pl": "J.Massenet „Obêissons quand leur voix appelle” z opery „Manon” (Manon)"
-      "19":
-          "en": "W.A.Mozart „Ach, ich fühl’s” from „Die Zauberflöte” (Pamina)"
-          "pl": "W.A.Mozart „Ach, ich fühl’s” z opery „Czarodziejski flet” (Pamina)"
-      "20":
-          "en": "W.A.Mozart „Vedrai, carino” from „Don Giovanni” (Zerlina)"
-          "pl": "W.A.Mozart „Vedrai, carino” z opery „Don Giovanni” (Zerlina)"
-      "21":
-          "en": "W.A.Mozart “Giunse alfin il momento... Deh, vieni, non tardar...” from “Le Nozze di Figaro” (Susanna)"
-          "pl": "W.A.Mozart “Giunse alfin il momento... Deh, vieni, non tardar...” z opery “Wesele Figara” (Zuzanna)"
-      "22":
-          "en": "W.A.Mozart “Venite inginocchiatevi” from “Le Nozze di Figaro” (Susanna)"
-          "pl": "W.A.Mozart “Venite inginocchiatevi” z opery “Wesele Figara” (Zuzanna)"
-      "23":
-          "en": "G.Puccini „O mio babbino caro” from „Gianni Schicchi” (Lauretta)"
-          "pl": "G.Puccini „O mio babbino caro” z opery „Gianni Schicchi” (Lauretta)"
-      "24":
-          "en": "M.Rimski-Korsakow „С подружками по ягоду ходить” from „Снегурочка” (Снегурочка)"
-          "pl": "M.Rimski-Korsakow „С подружками по ягоду ходить” z opery „Snieguroczka” (Snieguroczka)"
-      "25":
-          "en": "G.Verdi „Gualtier Maldè... Caro nome...” from “Rigoletto” (Gilda)"
-          "pl": "G.Verdi „Gualtier Maldè... Caro nome...” z opery “Rigoletto” (Gilda)"
-      "26":
-          "en": "G.Verdi „Tutte le feste” from „Rigoletto” (Gilda)"
-          "pl": "G.Verdi „Tutte le feste” z opery „Rigoletto” (Gilda)"
-      "27":
-          "en": "C.M. von Weber „Kommt ein schlanken...” from “Der Freischütz” (Ännchen)"
-          "pl": "C.M. von Weber „Kommt ein schlanken...” z opery “Wolny strzelec” (Anusia)"
-      "28":
-          "en": "W.Zelenski „Tam orzel na turniami...” from „Janek” (Bronka)"
-          "pl": "W.Żeleński „Tam orzeł na turniami...” z opery „Janek” (Bronka)"
+        "pl": "Camille Saint-Saëns „Oratorium na Boże Narodzenie”"
+        "en": "Camille Saint-Saëns „Oratorio de Noël”"
 
-  "operetta-arias":
+  "operaArias":
     "title":
-      "en": Operetta Arias        
-      "pl": Arie Operetkowe
+      "pl": "Arie operowe"
+      "en": "Opera Arias"
     "items":
-      "01":  
-        "en": "F.Lehar „Hör' ich Cymbalklänge” from „Zigeunerliebe”"
-        "pl": "F.Lehar „Kiedy skrzypki grają”"
-      "02":  
-        "en": "F.Lehar „Meine lippen sie küssen so heiß” from “Giuditta”"
-        "pl": "F.Lehar „Kto me usta całuje, ten śni” z operetki “Giuditta”"        
-      "03":  
-        "en": "J.Offenbach „Ah! quel dîner!” from “La Périchole”"
-        "pl": "J.Offenbach „Aria ze śmiechem”"        
+      "italian":
+        "title":
+          "pl": "Włoskie"
+          "en": "Italian"
+        "items":
+          "01":
+            "pl": "V.Bellini „Ah, non credea mirarti” z opery „Lunatyczka” (Amina)"
+            "en": "V.Bellini „Ah, non credea mirarti” from „La Sonnambula” (Amina)"
+          "02":
+            "pl": "V.Bellini „Eccomi in lieta vesta... Oh, quante volte...” z opery “Capuleti e i Montecchi” (Julia)"
+            "en": "V.Bellini „Eccomi in lieta vesta... Oh, quante volte...” from “Capuleti e i Montecchi” (Giulietta)"
+          "03":
+            "pl": "G.Donizetti “Quel guardo il cavaliere... So anch’io...” z opery “Don Pasquale” (Norina)"
+            "en": "G.Donizetti “Quel guardo il cavaliere... So anch’io...” from “Don Pasquale” (Norina)"
+          "04":
+            "pl": "G.Donizetti “Regnava nel silenzio... Quando rapito in estasi...” z opery “Łucja z Lammermoor” (Łucja)"
+            "en": "G.Donizetti “Regnava nel silenzio... Quando rapito in estasi...” from “Lucia di Lammermoor” (Lucia)"
+          "05":
+            "pl": "J.Haydn „Infelice sventurata” z opery „I due supposti Conti” (Beatrycze)"
+            "en": "J.Haydn „Infelice sventurata” from „I due supposti Conti” (Beatrice)"
+          "06":
+            "pl": "G.F.Händel „Tornami a vagheggiar” z opery „Alcina” (Morgana)"
+            "en": "G.F.Händel „Tornami a vagheggiar” from „Alcina” (Morgana)"
+          "07":
+            "pl": "G.F.Händel „Piangeró la sorte mia” z opery „Juliusz Cezar” (Kleopatra)"
+            "en": "G.F.Händel „Piangeró la sorte mia” from „Giulio Cesare” (Cleopatra)"
+          "08":
+            "pl": "G.F.Händel „Lascia ch’io pianga” z opery „Rinaldo” (Armida)"
+            "en": "G.F.Händel „Lascia ch’io pianga” from „Rinaldo” (Armida)"
+          "09":
+            "pl": "W.A.Mozart „Vedrai, carino” z opery „Don Giovanni” (Zerlina)"
+            "en": "W.A.Mozart „Vedrai, carino” from „Don Giovanni” (Zerlina)"
+          "10":
+            "pl": "W.A.Mozart “Giunse alfin il momento... Deh, vieni, non tardar...” z opery “Wesele Figara” (Zuzanna)"
+            "en": "W.A.Mozart “Giunse alfin il momento... Deh, vieni, non tardar...” from “Le Nozze di Figaro” (Susanna)"
+          "11":
+            "pl": "W.A.Mozart “Venite inginocchiatevi” z opery “Wesele Figara” (Zuzanna)"
+            "en": "W.A.Mozart “Venite inginocchiatevi” from “Le Nozze di Figaro” (Susanna)"
+          "12":
+            "pl": "G.Puccini „O mio babbino caro” z opery „Gianni Schicchi” (Lauretta)"
+            "en": "G.Puccini „O mio babbino caro” from „Gianni Schicchi” (Lauretta)"
+          "13":
+            "pl": "G.Puccini „Quando me’n vo” z opery „Cyganeria” (Musetta)"
+            "en": "G.Puccini „Quando me’n vo” from „La Bohème” (Musetta)"
+          "14":
+            "pl": "G.Puccini „Sì, mi chiamano Mimi” z opery „Cyganeria” (Mimi)"
+            "en": "G.Puccini „Sì, mi chiamano Mimi” from „La Bohème” (Mimi)"
+          "15":
+            "pl": "G.Verdi „Gualtier Maldè... Caro nome...” z opery “Rigoletto” (Gilda)"
+            "en": "G.Verdi „Gualtier Maldè... Caro nome...” from “Rigoletto” (Gilda)"
+          "16":
+            "pl": "G.Verdi „Tutte le feste” z opery „Rigoletto” (Gilda)"
+            "en": "G.Verdi „Tutte le feste” from „Rigoletto” (Gilda)"
+          "17":
+            "pl": "G.Verdi “Teneste la promessa... Addio del passato” z opery “Traviata” (Violetta)"
+            "en": "G.Verdi “Teneste la promessa... Addio del passato” from “Traviata” (Violetta)"
+          "18":
+            "pl": "G.Verdi “E strano!... Ah, fors'è lui... Sempre libera” z opery “Traviata” (Violetta)"
+            "en": "G.Verdi “E strano!... Ah, fors'è lui... Sempre libera” from “Traviata” (Violetta)"
 
-  "sacred-arias":
+      "german":
+        "title":
+          "pl": "Niemieckie"
+          "en": "German"
+        "items":
+          "01":
+            "pl": "W.A.Mozart „Ach, ich fühl’s” z opery „Czarodziejski flet” (Pamina)"
+            "en": "W.A.Mozart „Ach, ich fühl’s” from „Die Zauberflöte” (Pamina)"
+          "02":
+            "pl": "C.M. von Weber „Kommt ein schlanken...” z opery “Wolny strzelec” (Anusia)"
+            "en": "C.M. von Weber „Kommt ein schlanken...” from “Der Freischütz” (Ännchen)"
+
+      "french":
+        "title":
+          "pl": "Francuskie"
+          "en": "French"
+        "items":
+          "01":
+            "pl": "G.Bizet “Me voilà seule dans la nuit... Comme autrefois...” z opery “Poławiacze Pereł” (Leila)"
+            "en": "G.Bizet “Me voilà seule dans la nuit... Comme autrefois...” from “Les Pêcheurs de perles” (Leila)"
+          "02":
+            "pl": "G.Donizetti „Il faut partir” z opery „Córka pułku” (Maria)"
+            "en": "G.Donizetti „Il faut partir” from „La fille du régiment” (Maria)"
+          "03":
+            "pl": "G.Donizetti „Salut à la France” z opery „Córka pułku” (Maria)"
+            "en": "G.Donizetti „Salut à la France” from „La fille du régiment” (Maria)"
+          "04":
+            "pl": "J.Massenet „Obêissons quand leur voix appelle” z opery „Manon” (Manon)"
+            "en": "J.Massenet „Obêissons quand leur voix appelle” from „Manon” (Manon)"
+
+      "slavic":
+        "title":
+          "pl": "Słowiańskie"
+          "en": "Slavic"
+        "items":
+          "01":
+            "pl": "P.Czajkowski “Отчего это прежде не знала” z opery “Iolanta” (Iolanta)"
+            "en": "P.Czajkowski “Отчего это прежде не знала” from “Iolanta” (Iolanta)"
+          "02":
+            "pl": "P.Czajkowski „Пускай погибну я” scena pisania listu z opery „Eugeniusz Oniegin” (Tatiana)"
+            "en": "P.Czajkowski „Пускай погибну я” Letter Scene from „Eugene Oniegin” (Tatiana)"
+          "03":
+            "pl": "A.Dvořak “Měsičku na nebe hlubokem” z opery “Rusałka” (Rusałka)"
+            "en": "A.Dvořak “Měsičku na nebe hlubokem” from “Rusałka” (Rusałka)"
+          "04":
+            "pl": "M.Rimski-Korsakow „С подружками по ягоду ходить” z opery „Snieguroczka” (Snieguroczka)"
+            "en": "M.Rimski-Korsakow „С подружками по ягоду ходить” from „Snieguroczka” (Snieguroczka)"
+
+      "polish":
+        "title":
+          "pl": "Polskie"
+          "en": "Polish"
+        "items":
+          "01":
+            "pl": "T.Joteyko „Frottola italiana” z opery „Zygmunt August” (Królowa Bona)"
+            "en": "T.Joteyko „Frottola italiana” from „Zygmunt August” (Queen Bona Sforza)"
+          "02":
+            "pl": "K.Kurpiński „Wiek kwiecisty prędko płynie...” z opery „Leśniczy z Kozienickiej Puszczy” (Zośka)"
+            "en": "K.Kurpiński „Wiek kwiecisty prędko płynie...” from „Leśniczy z Kozienickiej Puszczy” (Zośka)"
+          "03":
+            "pl": "K.Kurpiński „Spojrzenia tkliwe, uczucia żywe...” z opery „Czaromysł” (Wandala)"
+            "en": "K.Kurpiński „Spojrzenia tkliwe, uczucia żywe...” from „Czaromysł” (Wandala)"
+          "04":
+            "pl": "K.Kurpiński „Głęboki smutek przejmuje” z opery „Leśniczy z Kozienieckiej Puszczy” (Ludwika)"
+            "en": "K.Kurpiński „Głęboki smutek przejmuje” from „Leśniczy z Kozienieckiej Puszczy” (Ludwika)"
+          "05":
+            "pl": "K.Kurpiński “Wiek kwiecisty prędko płynie” z opery “Leśniczy z Kozienieckiej Puszczy” (Zośka)"
+            "en": "K.Kurpiński “Wiek kwiecisty prędko płynie” from “Leśniczy z Kozienieckiej Puszczy” (Zośka)"
+          "06":
+            "pl": "L.Różycki „Po cierpieniach spokój wraca” z opery „Beatrix Cenci” (Lukrecja)"
+            "en": "L.Różycki „Po cierpieniach spokój wraca” from „Beatrix Cenci” (Lukrecja)"
+          "07":
+            "pl": "L.Różycki „To dawny mój znajomy” z opery „Casanova” (Caton)"
+            "en": "L.Różycki „To dawny mój znajomy” from „Casanova” (Caton)"
+          "08":
+            "pl": "J.Stefani „Jestem dobra jak baranek” z opery „Krakowiacy i Górale” (Basia)"
+            "en": "J.Stefani „Jestem dobra jak baranek” from „Krakowiacy i Górale” (Basia)"
+          "09":
+            "pl": "W.Żeleński „Tam orzeł na turniami...” z opery „Janek” (Bronka)"
+            "en": "W.Żeleński „Tam orzeł na turniami...” from „Janek” (Bronka)"
+
+  "operettaArias":
     "title":
-      "en": Sacred Arias        
-      "pl": Arie Sakralne
+      "pl": "Arie Operetkowe"
+      "en": "Operetta Arias"
     "items":
       "01":
-        "en": "G.B.Pergolesi „Vidit suum” from „Stabat mater”"
-        "pl": "G.B.Pergolesi „Vidit suum” z oratorium „Stabat mater”"
-      "02":  
-        "en": "J.S.Bach „Quia respexit” from „Magnificat”"
-        "pl": "J.S.Bach „Quia respexit” z „Magnificat”"
-      "03":  
-        "en": "J.S.Bach „Er hat uns allen wohlgetan... Aus Liebe will mein Heiland sterben” from “Die Matthäus-Passion”"
-        "pl": "J.S.Bach „Er hat uns allen wohlgetan... Aus Liebe will mein Heiland sterben” z “Pasji wg św.Mateusza”"
-      "04":  
-        "en": "J.Haydn “Nun beut die Flur das frische Grün” from “Die Schöpfung” (Gabriel)"
-        "pl": "J.Haydn “Nun beut die Flur das frische Grün” z oratorium “Stworzenie świata” (Gabriel)"
+        "pl": "F.Lehar „Kiedy skrzypki grają” z operetki „Cygańska miłość” (Ilona)"
+        "en": "F.Lehar „Hör'ich Cymbalklänge” from „Zigeunerliebe” (Ilona)"
+      "02":
+        "pl": "F.Lehar „Kto me usta całuje, ten śni” z operetki “Giuditta” (Giuditta)"
+        "en": "F.Lehar „Meine Lippen, sie küssen so heiß” from “Giuditta” (Giuditta)"
+      "03":
+        "pl": "J.Offenbach „Aria ze śmiechem” z operetki „Perichola”"
+        "en": "J.Offenbach „Ah quel diner” from „La Perichole”"
+      "04":
+        "pl": "F.Lehar “Pieśń o Wilii” z operetki “Wesoła wdówka” (Hanna Glawari)"
+        "en": "F.Lehar “Vilja-Lied” from “Die lustige Witwe” (Hanna Glawari)"
 
   "songs":
     "title":
-      "pl": Pieśni
-      "en": Songs
-    "items":  
-      "01":  
-        "en": "S.Barber „Puisque tout passe”"
-        "pl": "S.Barber „Puisque tout passe”"
-      "02":  
-        "en": "F.Chopin „Piosnka litewska”"
-        "pl": "F.Chopin „Piosnka litewska”"
-      "03":  
-        "en": "F.Chopin „Posel”"
-        "pl": "F.Chopin „Poseł”"
-      "04":  
-        "en": "F.Chopin „Wiosna”"
-        "pl": "F.Chopin „Wiosna”"
-      "05":  
-        "en": "C.Debussy „Nuit d’étoiles”"
-        "pl": "C.Debussy „Nuit d’étoiles”"
-      "06":  
-        "en": "E.Granados “El majo discreto”"
-        "pl": "E.Granados “El majo discreto”"
-      "07":  
-        "en": "R.Hahn „Si mes vers avaient des ailes”"
-        "pl": "R.Hahn „Si mes vers avaient des ailes”"
-      "08":  
-        "en": "M.Karlowicz “Rdzawe liscie”"
-        "pl": "M.Karłowicz “Rdzawe liście”"
-      "09":  
-        "en": "F.Liszt „Oh, quand je dors”"
-        "pl": "F.Liszt „Oh, quand je dors”"
-      "10":  
-        "en": "F.Maklakiewicz “A jesli chcesz zapomniec”"
-        "pl": "F.Maklakiewicz “A jeśli chcesz zapomnieć”"
-      "11":  
-        "en": "F.Maklakiewicz “Kocham Cie”"
-        "pl": "F.Maklakiewicz “Kocham Cię”"
-      "12":  
-        "en": "S.Moniuszko “Dumka”"
-        "pl": "S.Moniuszko “Dumka”"
-      "13":  
-        "en": "S.Moniuszko „Zlota rybka”"
-        "pl": "S.Moniuszko „Złota rybka”"
-      "14":  
-        "en": "S.Niewiadomski „Otworz, Janku”"
-        "pl": "S.Niewiadomski „Otwórz, Janku”"
-      "15":  
-        "en": "S.Niewiadomski „Smieja sie zlote lany”"
-        "pl": "S.Niewiadomski „Śmieją się złote łany”"
-      "16":  
-        "en": "F.Nowowiejski „Piesn milosna”"
-        "pl": "F.Nowowiejski „Pieśń miłosna”"
-      "17":  
-        "en": "I.J.Paderewski „Gdy ostatnia roza zwiedla” from „4 Songs to Poems by Adam Asnyk”"
-        "pl": "I.J.Paderewski „Gdy ostatnia róża zwiędła” z cyklu „4 pieśni do tekstów Asnyka”"
-      "18":  
-        "en": "I.J.Paderewski „Lune froide” from „12 Songs to Poems by Catulle Mendès”"
-        "pl": "I.J.Paderewski „Lune froide” z cyklu „12 pieśni do słów Mendèsa”"
-      "19":  
-        "en": "I.J.Paderewski „Moja pieszczotka” from „6  Songs to Poems by Adam Mickiewicz”"
-        "pl": "I.J.Paderewski „Moja pieszczotka” z cyklu „6 pieśni do słów Mickiewicza”"
-      "20":  
-        "en": "I.J.Paderewski „Nad woda wielka i czysta” from „6 Songs to Poems by Adam Mickiewicz”"
-        "pl": "I.J.Paderewski „Nad wodą wielką i czystą” z cyklu „6 pieśni do słów Mickiewicza”"
-      "21":  
-        "en": "I.J.Paderewski „Ton coeur est d’or pur” from „12 Songs to Poems by Catulle Mendès”"
-        "pl": "I.J.Paderewski „Ton coeur est d’or pur” z cyklu „12 pieśni do słów Mendèsa”"
-      "22":  
-        "en": "P.Perkowski „Japanese songs”"
-        "pl": "P.Perkowski „Uty japońskie” (cały cykl)"      
-      "23":  
-        "en": "A.Rubinstein „Ночь”"
-        "pl": "A.Rubinstein „Ночь”"
-      "24":  
-        "en": "S.Rachmaninow „Полюбилая”"
-        "pl": "S.Rachmaninow „Полюбилая”"
-      "25":  
-        "en": "S.Rachmaninow „Здесь хорошо”"
-        "pl": "S.Rachmaninow „Здесь хорошо”"
-      "26":  
-        "en": "R.Schumann “Das Lied der Suleika” from „Liederkreis”"
-        "pl": "R.Schumann “Das Lied der Suleika” z cyklu „Liederkreis”"
-      "27":  
-        "en": "R.Schumann „Die Lotosblume” from „Liederkreis”"
-        "pl": "R.Schumann „Die Lotosblume” z cyklu „Liederkreis”"
-      "28":  
-        "en": "R.Schumann „Mondnacht” from „Liederkreis”"
-        "pl": "R.Schumann „Mondnacht” z cyklu „Liederkreis”"
-      "29":  
-        "en": "J.Szulc „Claire de lune”"
-        "pl": "J.Szulc „Claire de lune”"
-      "30":  
-        "en": "K.Szymanowski “ Christkindleins Wiegenlied”"
-        "pl": "K.Szymanowski “Kołysanka Dzieciątka Jezus”"
-      "31":  
-        "en": "K.Szmanowski „Zielone slowa”"
-        "pl": "K.Szmanowski „Zielone słowa”"
-      "32":  
-        "en": "W.Żeleński „Blada roza”"
-        "pl": "W.Żeleński „Blada róża”"
+      "pl": "Pieśni"
+      "en": "Songs"
+    "items":
+      "french":
+        "title":
+          "pl": "Francuskie"
+          "en": "French"
+        "items":
+          "01":
+            "pl": "S.Barber „Puisque tout passe”"
+            "en": "S.Barber „Puisque tout passe”"
+          "02":
+            "pl": "C.Chaminade „Tu me dirais”"
+            "en": "C.Chaminade „Tu me dirais”"
+          "03":
+            "pl": "C.Chaminade „Si j’étais jardinier”"
+            "en": "C.Chaminade „Si j’étais jardinier”"
+          "04":
+            "pl": "C.Debussy „Nuit d’étoiles”"
+            "en": "C.Debussy „Nuit d’étoiles”"
+          "05":
+            "pl": "H.Duparc “Extase”"
+            "en": "H.Duparc “Extase”"
+          "06":
+            "pl": "R.Hahn „Si mes vers avaient des ailes”"
+            "en": "R.Hahn „Si mes vers avaient des ailes”"
+          "07":
+            "pl": "F.Liszt „Oh, quand je dors”"
+            "en": "F.Liszt „Oh, quand je dors”"
+          "08":
+            "pl": "J.Szulc „Claire de lune”"
+            "en": "J.Szulc „Claire de lune”"
+      "russian":
+        "title":
+            "pl": "Rosyjskie"
+            "en": "Russian"
+        "items":
+          "01":
+            "pl": "M.Minkow „Пейзаж”"
+            "en": "M.Minkow „Пейзаж”"
+          "02":
+            "pl": "S.Rachmaninow „Полюбилая”"
+            "en": "S.Rachmaninow „Полюбилая”"
+          "03":
+            "pl": "S.Rachmaninow „Здесь хорошо”"
+            "en": "S.Rachmaninow „Здесь хорошо”"
+          "04":
+            "pl": "S.Rachmaninow „Не пой красавица при мне”"
+            "en": "S.Rachmaninow „Не пой красавица при мне”"
+          "05":
+            "pl": "M.Rimski-Korsakow „Не ветер вея с высоты”"
+            "en": "M.Rimski-Korsakow „Не ветер вея с высоты”"
+          "06":
+            "pl": "M.Rimski-Korsakow „О чем в тиши ночей”"
+            "en": "M.Rimski-Korsakow „О чем в тиши ночей”"
+          "07":
+            "pl": "A.Rubinstein „Ночь”"
+            "en": "A.Rubinstein „Ночь”"
+      "german":
+        "title":
+          "pl": "Niemieckie"
+          "en": "German"
+        "items":
+          "01":
+            "pl": "R.Schumann “Das Lied der Suleika” z cyklu „Liederkreis”"
+            "en": "R.Schumann “Das Lied der Suleika” from „Liederkreis”"
+          "02":
+            "pl": "R.Schumann „Die Lotosblume” z cyklu „Liederkreis”"
+            "en": "R.Schumann „Die Lotosblume” from „Liederkreis”"
+          "03":
+            "pl": "R.Schumann „Mondnacht” z cyklu „Liederkreis”"
+            "en": "R.Schumann „Mondnacht” from „Liederkreis”"
+      "polish":
+        "title":
+          "pl": "Polskie"
+          "en": "Polish"
+        "items":
+          "01":
+            "pl": "F.Chopin „Piosnka litewska”"
+            "en": "F.Chopin „Piosnka litewska”"
+          "02":
+            "pl": "F.Chopin „Poseł”"
+            "en": "F.Chopin „Poseł”"
+          "03":
+            "pl": "F.Chopin „Wiosna”"
+            "en": "F.Chopin „Wiosna”"
+          "04":
+            "pl": "J.Gablenz „Ty nie wiesz nawet jak mi źle”"
+            "en": "J.Gablenz „Ty nie wiesz nawet jak mi źle”"
+          "05":
+            "pl": "M.Karłowicz “Rdzawe liście”"
+            "en": "M.Karłowicz “Rdzawe liście”"
+          "06":
+            "pl": "F.Maklakiewicz “A jeśli chcesz zapomnieć”"
+            "en": "F.Maklakiewicz “A jeśli chcesz zapomnieć”"
+          "07":
+            "pl": "F.Maklakiewicz “Kocham Cię”"
+            "en": "F.Maklakiewicz “Kocham Cię”"
+          "08":
+            "pl": "S.Moniuszko “Dumka”"
+            "en": "S.Moniuszko “Dumka”"
+          "09":
+            "pl": "S.Moniuszko „Złota rybka”"
+            "en": "S.Moniuszko „Złota rybka”"
+          "10":
+            "pl": "S.Niewiadomski „Otwórz, Janku”"
+            "en": "S.Niewiadomski „Otwórz, Janku”"
+          "11":
+            "pl": "S.Niewiadomski „Śmieją się złote łany”"
+            "en": "S.Niewiadomski „Śmieją się złote łany”"
+          "12":
+            "pl": "F.Nowowiejski „Pieśń miłosna”"
+            "en": "F.Nowowiejski „Pieśń miłosna”"
+          "13":
+            "pl": "H.Opieński „Idzie na pola, idzie na bory”"
+            "en": "H.Opieński „Idzie na pola, idzie na bory”"
+          "14":
+            "pl": "H.Opieński „Spokojnie, zimno, patrzą oczy gwiazd”"
+            "en": "H.Opieński „Spokojnie, zimno, patrzą oczy gwiazd”"
+          "15":
+            "pl": "I.J.Paderewski „Gdy ostatnia róża zwiędła” z cyklu „4 pieśni do tekstów Asnyka”"
+            "en": "I.J.Paderewski „Gdy ostatnia róża zwiędła” from „4 Songs to Poems by Adam Asnyk”"
+          "16":
+            "pl": "I.J.Paderewski „Lune froide” z cyklu „12 pieśni do słów Mendèsa”"
+            "en": "I.J.Paderewski „Lune froide” from „12 Songs to Poems by Catulle Mendès”"
+          "17":
+            "pl": "I.J.Paderewski „Moja pieszczotka” z cyklu „6 pieśni do słów Mickiewicza”"
+            "en": "I.J.Paderewski „Moja pieszczotka” from „6 Songs to Poems by Adam Mickiewicz”"
+          "18":
+            "pl": "I.J.Paderewski „Nad wodą wielką i czystą” z cyklu „6 pieśni do słów Mickiewicza”"
+            "en": "I.J.Paderewski „Nad wodą wielką i czystą” from „6 Songs to Poems by Adam Mickiewicz”"
+          "19":
+            "pl": "I.J.Paderewski „Ton coeur est d’or pur” z cyklu „12 pieśni do słów Mendèsa”"
+            "en": "I.J.Paderewski „Ton coeur est d’or pur” from „12 Songs to Poems by Catulle Mendès”"
+          "20":
+            "pl": "P.Perkowski „Uty japońskie” (cały cykl)"
+            "en": "P.Perkowski „Japanese songs”"
+          "21":
+            "pl": "L.Różycki „Aaa... kotki dwa”"
+            "en": "L.Różycki „Aaa... kotki dwa”"
+          "22":
+            "pl": "K.Szymanowski “Kołysanka Dzieciątka Jezus”"
+            "en": "K.Szymanowski “Christkindleins Wiegenlied”"
+          "23":
+            "pl": "K.Szmanowski „Zielone słowa”"
+            "en": "K.Szmanowski „Zielone słowa”"
+          "24":
+            "pl": "W.Żeleński „Blada róża”"
+            "en": "W.Żeleński „Blada róża”"
+
+  "sacredArias":
+    "title":
+      "pl": "Arie Sakralne"
+      "en": "Sacred Arias"
+    "items":
+      "01":
+        "pl": "G.B.Pergolesi „Vidit suum” z oratorium „Stabat mater”"
+        "en": "G.B.Pergolesi „Vidit suum” from „Stabat mater”"
+      "02":
+        "pl": "J.S.Bach „Quia respexit” z „Magnificat”"
+        "en": "J.S.Bach „Quia respexit” from „Magnificat”"
+      "03":
+        "pl": "J.S.Bach „Er hat uns allen wohlgetan... Aus Liebe will mein Heiland sterben” z “Pasji wg św.Mateusza”"
+        "en": "J.S.Bach „Er hat uns allen wohlgetan... Aus Liebe will mein Heiland sterben” from “Die Matthäus-Passion”"
+      "04":
+        "pl": "J.Haydn “Nun beut die Flur das frische Grün” z oratorium “Stworzenie świata”(Gabriel)"
+        "en": "J.Haydn “Nun beut die Flur das frische Grün” from “Die Schöpfung”(Gabriel)"
 
   "duets":
     "title":
-      "pl": Duety
-      "en": Duets
-    "items":  
-      "01":  
-        "en": "P.Czajkowski „Final scene” from „Eugene Oniegin”"
-        "pl": "P.Czajkowski Scena finałowa z opery „Eugeniusz Oniegin”"
-      "02":  
-        "en": "L.Delibes “Flower Duet” from. „Lakmé”"
-        "pl": "L.Delibes duet kwiatów z opery „Lakmé”"
-      "03":  
-        "en": "F.Lehar Hanna&Danilo duet „Lippen schweigen” from “Die lustige Witwe”"
-        "pl": "F.Lehar duet Hanny i Danilo „Usta milczą, dusza śpiewa” z operetki „Wesoła wdówka”"
-      "04":  
-        "en": "W.A.Mozart Susanna&Conte duet “Crudel, perchè finora” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Hrabiego “Crudel, perchè finora” z opery „Wesele Figara”"
-      "05":  
-        "en": "W.A.Mozart Susanna&Figaro duet „Cinque, dieci” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Figara „Cinque, dieci” z opery „Wesele Figara”"
-      "06":  
-        "en": "W.A.Mozart Susanna&Figaro duet „Se a caso madama” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Figara „Se a caso madama” z opery „Wesele Figara”"
-      "07":  
-        "en": "W.A.Mozart Susanna&Marcellina duet „Via resti servita” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Marcelliny „Via resti servita” z opery „Wesele Figara”"
-      "08":  
-        "en": "W.A.Mozart Susanna&Contessa duet „Sull’aria” from „Le Nozze di Figaro”"
-        "pl": "W.A.Mozart duet Zuzanny i Hrabiny „Sull’aria” z opery „Wesele Figara”"
-      "09":  
-        "en": "W.A.Mozart Zerlina&Don Giovanni duet „La ci darem la mano” from „Don Giovanni”"
-        "pl": "W.A.Mozart duet Zerliny i Don Giovanniego „La ci darem la mano” z opery „Don Giovanni”"
-      "10":  
-        "en": "W.A.Mozart Annius&Servillia duet „Ah, perdona al primo affetto” from “Clemenza di Tito”"
-        "pl": "W.A.Mozart duet Anniusa i Servilii „Ah, perdona al primo affetto” z opery „Łaskawość Tytusa”"
-      "11":  
-        "en": "G.Rossini “Cat’s Duet”"
-        "pl": "G.Rossini duet kotów"
-      "12":  
-        "en": "G.Rossini duet „La regata veneziana”"
-        "pl": "G.Rossini duet „La regata veneziana”"
-      "13":  
-        "en": "G.Verdi Violetta&Germont duet „Madamigella Valery...” from “Traviata”"
-        "pl": "G.Verdi Violetta&Germont duet „Madamigella Valery...”  z opery “Traviata”"
-
-  "others":
-    "title":
-      "pl": Inne
-      "en": Others
-    "items": 
-      "01":  
-        "en": "L.Arditi „Il bacio”"
-        "pl": "L.Arditi „Il bacio”"        
+      "pl": "Duety"
+      "en": "Duets"
+    "items":
+      "01":
+        "pl": "P.Czajkowski scena finałowa z opery „Eugeniusz Oniegin”"
+        "en": "P.Czajkowski Final Scene from „Eugene Oniegin”"
       "02":
-        "en": "G.Caccini “Amarilli, mia bella”"
-        "pl": "G.Caccini “Amarilli, mia bella”"        
-      "03":  
-        "en": "L.Dalla „Caruso”"
-        "pl": "L.Dalla „Caruso”"
-      "04":  
-        "en": "W.Kilar „Vocalise” from film „The Ninth Gate”"
-        "pl": "W.Kilar „Wokaliza” z filmu „Dziewiąte wrota”"        
-      "05":  
-        "en": "E.Morricone „Nella fantasia” from film „The Mission”"
-        "pl": "E.Morricone „Nella fantasia” z filmu „Misja”"
-
+        "pl": "L.Delibes duet kwiatów z opery „Lakmé”"
+        "en": "L.Delibes “Flower Duet” from „Lakmé”"
+      "03":
+        "pl": "F.Lehar duet Hanny i Daniło „Usta milczą, dusza śpiewa” z operetki „Wesoła wdówka”"
+        "en": "F.Lehar Hanna&Danilo duet „Lippen schweigen” from “Die lustige Witwe”"
+      "04":
+        "pl": "W.A.Mozart duet Zuzanny i Hrabiego “Crudel, perchè finora” z opery „Wesele Figara”"
+        "en": "W.A.Mozart Susanna&Conte duet “Crudel, perchè finora” from „Le Nozze di Figaro”"
+      "05":
+        "pl": "W.A.Mozart duet Zuzanny i Figara „Cinque, dieci” z opery „Wesele Figara”"
+        "en": "W.A.Mozart Susanna&Figaro duet „Cinque, dieci” from „Le Nozze di Figaro”"
+      "06":
+        "pl": "W.A.Mozart duet Zuzanny i Figara „Se a caso madama” z opery „Wesele Figara”"
+        "en": "W.A.Mozart Susanna&Figaro duet „Se a caso madama” from „Le Nozze di Figaro”"
+      "07":
+        "pl": "W.A.Mozart duet Zuzanny i Marcelliny „Via resti servita” z opery „Wesele Figara”"
+        "en": "W.A.Mozart Susanna&Marcellina duet „Via resti servita” from „Le Nozze di Figaro”"
+      "08":
+        "pl": "W.A.Mozart duet Zuzanny i Hrabiny „Sull’aria” z opery „Wesele Figara”"
+        "en": "W.A.Mozart Susanna&Contessa duet „Sull’aria” from „Le Nozze di Figaro”"
+      "09":
+        "pl": "W.A.Mozart duet Zerliny i Don Giovanniego „La ci darem la mano” z opery „Don Giovanni”"
+        "en": "W.A.Mozart Zerlina&Don Giovanni duet „La ci darem la mano” from „Don Giovanni”"
+      "10":
+        "pl": "W.A.Mozart Guglielmo i Dorabelli duet „Il core vi dono” z opery „Così fan tutte”"
+        "en": "W.A.Mozart Guglielmo&Dorabella duet „Il core vi dono” from „Così fan tutte”"
+      "11":
+        "pl": "W.A.Mozart duet Anniusa i Servilii „Ah, perdona al primo affetto” z opery „Łaskawość Tytusa”"
+        "en": "W.A.Mozart Annius&Servillia duet „Ah, perdona al primo affetto” from “Clemenza di Tito”"
+      "12":
+        "pl": "G.Puccini duet Toski i Mario „Mario, Mario... Or lasciami al lavoro” z opery „Tosca”"
+        "en": "G.Puccini Tosca&Mario duet „Mario, Mario... Or lasciami al lavoro” from „Tosca”"
+      "13":
+        "pl": "G.Rossini duet „La regata veneziana”"
+        "en": "G.Rossini duet „La regata veneziana”"
+      "14":
+        "pl": "G.Verdi Violetta&Germont duet „Madamigella Valery... Imponete...” z opery “Traviata”"
+        "en": "G.Verdi Violetta&Germont duet „Madamigella Valery... Imponete...” from “Traviata”"
