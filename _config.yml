@@ -230,7 +230,7 @@ repertoire:
     "title":
       "pl": "Arie operowe"
       "en": "Opera Arias"
-    "nested": 1
+    "nested": true
     "items":
       "italian":
         "title":
@@ -377,7 +377,7 @@ repertoire:
     "title":
       "pl": "Arie Operetkowe"
       "en": "Operetta Arias"
-    "nested": 0
+    "nested": false
     "items":
       "01":
         "pl": "F.Lehar „Kiedy skrzypki grają” z operetki „Cygańska miłość” (Ilona)"
@@ -396,7 +396,7 @@ repertoire:
     "title":
       "pl": "Pieśni"
       "en": "Songs"
-    "nested": 1
+    "nested": true
     "items":
       "french":
         "title":
@@ -549,7 +549,7 @@ repertoire:
     "title":
       "pl": "Arie Sakralne"
       "en": "Sacred Arias"
-    "nested": 0
+    "nested": false
     "items":
       "01":
         "pl": "G.B.Pergolesi „Vidit suum” z oratorium „Stabat mater”"
@@ -568,7 +568,7 @@ repertoire:
     "title":
       "pl": "Duety"
       "en": "Duets"
-    "nested": 0
+    "nested": false
     "items":
       "01":
         "pl": "P.Czajkowski scena finałowa z opery „Eugeniusz Oniegin”"
