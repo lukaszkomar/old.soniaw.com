@@ -5,14 +5,16 @@
 {% endif %}
 
 #
-fq
+fqw
 {% for section in site.repertoire %}
 <h4>{{ section[1].title[page.lang] }}</h4>
-n
+
+n{{ section[1].nested }}n
+
 {% if section[1].nested %}
 nested
 {% endif %}
-n
+
 {% endfor %}
 f
 #
