@@ -5,15 +5,20 @@
 {% endif %}
 
 #
-qwerty
+qwertyu
 {% for section in site.repertoire %}
 
-  <h4>{{ section[1].title[page.lang] }}</h4>
+  <h3>{{ section[1].title[page.lang] }}</h3>
 
   {% if section[1].nested %}
 
     {% for subsection in section[1].items %}
-      <h3>{{ subsection[1].title[page.lang] }}</h3>
+      <h4>{{ subsection[1].title[page.lang] }}</h4>
+      <ul>
+        {% for item in subsection[1].items %}
+          <li>{{ item[1][page.lang] }}</li>
+        {% endfor %}
+      </ul>
     {% endfor %}
 
   {% else %}
