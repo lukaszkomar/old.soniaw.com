@@ -5,7 +5,7 @@
 {% endif %}
 
 #
-f
+fq
 {% for section in site.repertoire %}
 <h4>{{ section[1].title[page.lang] }}</h4>
 n
@@ -16,23 +16,3 @@ n
 {% endfor %}
 f
 #
-
-{% for section in site.repertoire %}
-<h4>{{ section[1].title[page.lang] }}</h4>
-{% if section[1].nested %}
-    <h3>{{ section[1].items.title[page.lang] }}</h3>
-    <ul>
-      {% for item in section[1].items.items %}
-      <li>{{ item[1][page.lang] }}</li>
-      {% endfor %}
-    </ul>
-{% else %}
-  <ul>
-  {% for item in section[1].items %}
-    <li>{{ item[1][page.lang] }}</li>
-  {% endfor %}
-  </ul>
-  {% endfor %}
-{% endif %}
-
-<br/>
