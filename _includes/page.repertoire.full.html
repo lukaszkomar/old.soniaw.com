@@ -6,12 +6,20 @@
 
 {% for section in site.repertoire %}
 <h4>{{ section[1].title[page.lang] }}</h4>
-<ul>
-{% for item in section[1].items %}
-  <li>{{ item[1][page.lang] }}</li> 
-{% endfor %}
-</ul>
-{% endfor %}
-
+{% section[1].items.items %}
+    <h3>{{ section[1].items.title[page.lang] }}</h3>
+    <ul>
+      {% for item in section[1].items.items %}
+      <li>{{ item[1][page.lang] }}</li>
+      {% endfor %}
+    </ul>
+{% else %}
+  <ul>
+  {% for item in section[1].items %}
+    <li>{{ item[1][page.lang] }}</li>
+  {% endfor %}
+  </ul>
+  {% endfor %}
+{% endif %}
 
 <br/>
