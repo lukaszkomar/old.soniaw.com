@@ -44,8 +44,15 @@
 
 <!-- js -->
 
-    <script src="p/js/bootstrap.min.js"></script>
+    <!--<script src="p/js/bootstrap.min.js"></script>-->
     <script src="p/js/jquery-1.11.0.min.js"></script>
     <script src="p/js/lightbox.min.js"></script>
+    <script>
+        $(window).on('resize', function() {
+            var container_width = $('#pageContainer').width();
+            $('#pageContainer div.fb-page').attr('data-width', container_width);
+            FB.XFBML.parse();
+        });
+    </script>
 
 {% include footer.html %}
