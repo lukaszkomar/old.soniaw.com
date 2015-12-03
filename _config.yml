@@ -25,6 +25,20 @@ permalink: /:title/
 
 # Struktura galerii
 gallery:
+  "operameetsoperetta":
+    "title":
+      "en": "When opera meets operetta"
+      "pl": "Gdy opera spotyka się z operetką"
+    "desc":
+      "en": "Wrocław, 24.10.2015. Tomasz Maleszewski (tenor), Magdalena Jaszczak (piano)"
+      "pl": "Wrocław, 24.10.2015. Tomasz Maleszewski (tenor), Magdalena Jaszczak (akompaniament)"
+    "images":
+      "01": "operameetsoperetta1"
+      "02": "operameetsoperetta2"
+      "03": "operameetsoperetta3"
+      "04": "operameetsoperetta4"
+      "05": "operameetsoperetta5"
+
   "2015widow":
     "title":
       "en": "The Merry Widow"
@@ -33,13 +47,13 @@ gallery:
       "en": "“The Merry Widow“ by F.Lehar (Hanna Glawari) photo by Michał Słomiński"
       "pl": "“Wesoła wdówka“ F.Lehara (partia Hanny Glawari) fot. Michał Słomiński"
     "images":
-      "01": "widow1"	
-      "02": "widow2"	
-      "03": "widow3"	
-      "04": "widow4"	
-      "05": "widow5"	
-      "06": "widow6"	
-      "07": "widow7"	
+      "01": "widow1"
+      "02": "widow2"
+      "03": "widow3"
+      "04": "widow4"
+      "05": "widow5"
+      "06": "widow6"
+      "07": "widow7"
       
   "bukowno2014":
     "title":
