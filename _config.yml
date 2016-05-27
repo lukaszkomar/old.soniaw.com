@@ -25,6 +25,23 @@ permalink: /:title/
 
 # Struktura galerii
 gallery:
+
+  "didoandaeneas":
+    "title":
+      "en": "Dido and Aeneas"
+      "pl": "Dydona i Eneasz"
+    "desc":
+      "en": "H.Purcell “Dido and Aeneas“, Grand Theatre, Poznan, 28.04.2016"
+      "pl": "H.Purcell “Dydona i Eneasz“, Teatr Wielki - Opera Poznań, 28.04.2016r."
+    "images":
+      "01": "didoandaeneas1"
+      "02": "didoandaeneas2"
+      "03": "didoandaeneas3"
+      "04": "didoandaeneas4"
+      "05": "didoandaeneas5"
+      "06": "didoandaeneas6"
+      "07": "didoandaeneas7"
+
   "operameetsoperetta":
     "title":
       "en": "When opera meets operetta"
