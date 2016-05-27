@@ -10,12 +10,12 @@
 <div class="gal">
   {% for img in g[1].images %}
   <a class="thumb-link" 
-     href="p/img/g/{{ g[0]] }}/{{ img[1] }}.jpg" 
+     href="/p/img/g/{{ g[0]] }}/{{ img[1] }}.jpg"
      data-lightbox="{{ g[0] }}" 
      data-title="{{ g[1].title[page.lang] }} - {{ g[1].desc[page.lang] }}"
   >
     <img class="thumb" 
-         src="p/img/g/{{ g[0]] }}/{{ img[1] }}m.jpg" 
+         src="/p/img/g/{{ g[0]] }}/{{ img[1] }}m.jpg"
          alt="{{ g[1].title[page.lang] }} - {{ g[1].desc[page.lang] }}"
     />
   </a>
