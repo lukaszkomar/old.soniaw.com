@@ -1,4 +1,12 @@
 <script>
+  (function(){
+    var bgList = Array('bg00','bg01','bg03','bg04','bg06');
+    var randomBg = bgList[Math.floor(Math.random()*items.length)];
+
+    document.body.className = randomBg;
+  })();
+</script>
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)

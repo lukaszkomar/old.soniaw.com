@@ -176,7 +176,7 @@
         color: #fff;
         background: #cdac89;
     }
-    body.bg04 nav ul li a {
+    body.bg04 nav ul li a, body.bg06 nav ul li a {
         color: #0d164a;
     }
 
