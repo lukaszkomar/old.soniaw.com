@@ -140,20 +140,44 @@
         background-image: url(bg.hd.jpg);
     }
 
-    body.bg04 {
-        background-image: url(bg04.hd.jpg);
-    }
-    
     h1.logo a {
         padding-left: 0;
     }
-    
-    nav#nav-menu {        
+
+    nav#nav-menu {
         padding-left: 0;
     }
-    
+
     nav#nav-lang ul li a{
         margin-left: 40px;
+    }
+
+/* bg 01 */
+    body.bg01 {
+        background-image: url(bg01.hd.jpg);
+    }
+
+/* bg 03 */
+    body.bg03 {
+        background-image: url(bg03.hd.jpg);
+    }
+
+/* bg 06 */
+    body.bg06 {
+        background-image: url(bg06.hd.jpg);
+    }
+
+/* bg 04 */
+    body.bg04 {
+        background-image: url(bg04.hd.jpg);
+    }
+
+    body.bg04 #content .content {
+        color: #fff;
+        background: #cdac89;
+    }
+    body.bg04 nav ul li a {
+        color: #0d164a;
     }
 
 }
