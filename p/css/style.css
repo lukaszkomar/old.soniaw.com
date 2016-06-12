@@ -137,7 +137,11 @@
 @media (min-width: 1200px) { 
     
     body {
-        background-image: url(bg.hd.jpg);          
+        background-image: url(bg.hd.jpg);
+    }
+
+    body.bg04 {
+        background-image: url(bg04.hd.jpg);
     }
     
     h1.logo a {
