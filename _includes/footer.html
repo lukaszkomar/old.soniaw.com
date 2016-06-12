@@ -1,7 +1,7 @@
 <script>
   (function(){
     var bgList = Array('bg00','bg01','bg03','bg04','bg06');
-    var randomBg = bgList[Math.floor(Math.random()*items.length)];
+    var randomBg = bgList[Math.floor(Math.random() * bgList.length)];
 
     document.body.className = randomBg;
   })();
