@@ -235,26 +235,65 @@ repertoire:
         "pl": "W.A.Mozart „Wesele Figara”: Zuzanna"
         "en": "W.A.Mozart „Le Nozze di Figaro”: Susanna"
       "03":
+        "pl": "W.A.Mozart „Wesele Figara”: Hrabina"
+        "en": "W.A.Mozart „Wesele Figara”: Contessa"
+      "04":
         "pl": "F.Lehár „Wesoła wdówka”: Hanna Glawari"
         "en": "F.Lehár „Die lustige Witwe”: Hanna Glawari"
-      "04":
+      "05":
         "pl": "G.F.Händel „Rodelinda”: Rodelinda"
         "en": "G.F.Händel „Rodelinda”: Rodelinda"
-      "05":
+      "06":
+        "pl": "H.Purcell „Dydona i Eneasz”: Dydona"
+        "en": "H.Purcell „Dido and Aeneas”: Dido"
+      "07":
         "pl": "H.Purcell „The Fairyqueen”: Nyph, Night"
         "en": "H.Purcell „The Fairyqueen”: Nyph, Night"
-      "06":
+      "08":
         "pl": "W.A.Mozart „Requiem d-moll”"
         "en": "W.A.Mozart „Requiem in d minor”"
-      "07":
+      "09":
         "pl": "W.A.Mozart „Msza c-moll”"
         "en": "W.A.Mozart „Messe in c minor”"
-      "08":
+      "10":
         "pl": "J.Haydn „Msza nelsońska”"
         "en": "J.Haydn „Messe in augustiis”"
-      "09":
+      "11":
         "pl": "Camille Saint-Saëns „Oratorium na Boże Narodzenie”"
         "en": "Camille Saint-Saëns „Oratorio de Noël”"
+      "12":
+        "pl": "G.B.Pergolesi „Stabat Mater”"
+        "en": "G.B.Pergolesi „Stabat Mater”"
+      "13":
+        "pl": "J.S.Bach – Kantata BWV4 „Christ lag in Todes Banden”"
+        "en": "J.S.Bach – Cantate BWV4 „Christ lag in Todes Banden”"
+      "14":
+        "pl": "J.S.Bach – Kantata BWV140 „Wachet auf, ruft uns die Stimme”"
+        "en": "J.S.Bach – Cantate BWV140 „Wachet auf, ruft uns die Stimme”"
+      "15":
+        "pl": "J.S.Bach – Kantata BWV51 „Jauchzet Gott in allen Landen”"
+        "en": "J.S.Bach – Cantate BWV51 „Jauchzet Gott in allen Landen”"
+      "16":
+        "pl": "G.F.Händel „Dixit Dominus”"
+        "en": "G.F.Händel „Dixit Dominus”"
+      "17":
+        "pl": "J.Haydn „Stworzenie świata”"
+        "en": "J.Haydn „Die Schöpfung”"
+      "18":
+        "pl": "L. van Beethoven „IX Symfonia”"
+        "en": "L. van Beethoven „Symphony no.9”"
+      "19":
+        "pl": "G.Fauré „Requiem”"
+        "en": "G.Fauré „Requiem”"
+      "20":
+        "pl": "A.Dvořák „Msza D-dur”"
+        "en": "A.Dvořák „Messe in d major”"
+      "21":
+        "pl": "C.Orff „Carmina burana”"
+        "en": "C.Orff „Carmina burana”"
+      "22":
+        "pl": "G.Majka „Mgła”"
+        "en": "G.Majka „Mgła”"
 
   "operaArias":
     "title":
@@ -391,36 +430,73 @@ repertoire:
             "pl": "K.Kurpiński “Wiek kwiecisty prędko płynie” z opery “Leśniczy z Kozienieckiej Puszczy” (Zośka)"
             "en": "K.Kurpiński “Wiek kwiecisty prędko płynie” from “Leśniczy z Kozienieckiej Puszczy” (Zośka)"
           "06":
+            "pl": "S.Moniuszko „Okropny ten poranek... Ach, tyś może śród tej burzy” z opery „Flis” (Zosia)"
+            "en": "S.Moniuszko „Okropny ten poranek... Ach, tyś może śród tej burzy” from „Flis” (Zosia)"
+          "07":
             "pl": "L.Różycki „Po cierpieniach spokój wraca” z opery „Beatrix Cenci” (Lukrecja)"
             "en": "L.Różycki „Po cierpieniach spokój wraca” from „Beatrix Cenci” (Lukrecja)"
-          "07":
+          "08":
             "pl": "L.Różycki „To dawny mój znajomy” z opery „Casanova” (Caton)"
             "en": "L.Różycki „To dawny mój znajomy” from „Casanova” (Caton)"
-          "08":
+          "09":
             "pl": "J.Stefani „Jestem dobra jak baranek” z opery „Krakowiacy i Górale” (Basia)"
             "en": "J.Stefani „Jestem dobra jak baranek” from „Krakowiacy i Górale” (Basia)"
-          "09":
+          "10":
             "pl": "W.Żeleński „Tam orzeł na turniami...” z opery „Janek” (Bronka)"
             "en": "W.Żeleński „Tam orzeł na turniami...” from „Janek” (Bronka)"
 
   "operettaArias":
     "title":
-      "pl": "Arie Operetkowe"
-      "en": "Operetta Arias"
+      "pl": "Operetka"
+      "en": "Operetta"
     "nested": false
     "items":
       "01":
+        "pl": "R.Benatzky duet „To musi być cudowna rzecz” z singspielu „Pod białym koniem”"
+        "en": "R.Benatzky „Es muß was wunderbares sein, von dir geliebt zu werden” from „Im weißen Rößl”"
+      "02":
+        "pl": "I.Kalman duet „Ach, jedź do Varasdin” z operetki „Hrabina Marica”"
+        "en": "I.Kalman „Komm mit nach Varasdin” from „Gräfin Mariza”"
+      "03":
+        "pl": "I.Kalman „Czardasz Sylvy” z operetki „Księżniczka czardasza”"
+        "en": "I.Kalman „Heia heia, in der Bergen” from „Die Csárdásfürstin”"
+      "04":
+        "pl": "I.Kalman duet Sylwy i Edwina „Jakże mam Ci wytłumaczyć?” z operetki „Księżniczka czardasza”"
+        "en": "I.Kalman Silva&Edwin duet „Sich verlieben kann man öfters” from „Die Csárdásfürstin”"
+      "05":
+        "pl": "I.Kalman duet Sylvy i Edwina „Tłumy fraków” z operetki „Księżniczka Czardasza”"
+        "en": "I.Kalman Silva&Edwin duet „Heller Jubel, Händedrücke” from „Die Csárdásfürstin”"
+      "06":
         "pl": "F.Lehar „Kiedy skrzypki grają” z operetki „Cygańska miłość” (Ilona)"
         "en": "F.Lehar „Hör'ich Cymbalklänge” from „Zigeunerliebe” (Ilona)"
-      "02":
+      "07":
         "pl": "F.Lehar „Kto me usta całuje, ten śni” z operetki “Giuditta” (Giuditta)"
         "en": "F.Lehar „Meine Lippen, sie küssen so heiß” from “Giuditta” (Giuditta)"
-      "03":
-        "pl": "J.Offenbach „Aria ze śmiechem” z operetki „Perichola”"
-        "en": "J.Offenbach „Ah quel diner” from „La Perichole”"
-      "04":
+      "08":
+        "pl": "F.Lehar „Miłość to niebo na ziemi” z operetki „Paganini”"
+        "en": "F.Lehar „Liebe, du Himmel auf Erden” from „Paganini”"
+      "09":
         "pl": "F.Lehar “Pieśń o Wilii” z operetki “Wesoła wdówka” (Hanna Glawari)"
         "en": "F.Lehar “Vilja-Lied” from “Die lustige Witwe” (Hanna Glawari)"
+      "10":
+        "pl": "F.Lehar duet Hanny i Daniło „Usta milczą, dusza śpiewa” z operetki „Wesoła wdówka”"
+        "en": "F.Lehar Hanna&Danilo duet „Lippen schweigen” from “Die lustige Witwe”"
+      "11":
+        "pl": "F.Löwe „Przetańczyć całą noc” z musicalu „My fair lady”"
+        "en": "F.Löwe „I could have danced all night” from „My fair lady”"
+      "12":
+        "pl": "J.Offenbach „Aria ze śmiechem” z operetki „Perichola”"
+        "en": "J.Offenbach „Ah quel diner” from „La Perichole”"
+      "13":
+        "pl": "J.Strauss  duet Saffi i Barinkaya „Kto ślub nam dał?” z operetki „Baron cygański”"
+        "en": "J.Strauss  Saffi&Barinkay duet „Wer uns getraut? From „Der Zigeunerbaron”"
+      "14":
+        "pl": "J.Strauss „Kuplety Adeli” („W roli skromnego dziewczęcia…”) z operetki „Zemsta nietoperza”"
+        "en": "J.Strauss „Couplet of Adele” („Spiel' ich die Unschuld vom Lande…”) from „Die Fledermaus”"
+      "15":
+        "pl": "J.Strauss „Aria ze śmiechem” („Taki pan, jak pan…”) z operetki „Zemsta nietoperza”"
+        "en": "J.Strauss „Adele’s Laughing Song” („Mein Herr, Marquis…”) from „Die Fledermaus”"
+
 
   "songs":
     "title":
@@ -591,54 +667,60 @@ repertoire:
         "pl": "J.S.Bach „Er hat uns allen wohlgetan... Aus Liebe will mein Heiland sterben” z “Pasji wg św.Mateusza”"
         "en": "J.S.Bach „Er hat uns allen wohlgetan... Aus Liebe will mein Heiland sterben” from “Die Matthäus-Passion”"
       "04":
+        "pl": "G.Faure “Pie Jesu” z “Requiem”"
+        "en": "G.Faure “Pie Jesu” from “Requiem”"
+      "05":
         "pl": "J.Haydn “Nun beut die Flur das frische Grün” z oratorium “Stworzenie świata”(Gabriel)"
         "en": "J.Haydn “Nun beut die Flur das frische Grün” from “Die Schöpfung”(Gabriel)"
-
-  "duets":
-    "title":
-      "pl": "Duety"
-      "en": "Duets"
-    "nested": false
-    "items":
-      "01":
-        "pl": "P.Czajkowski scena finałowa z opery „Eugeniusz Oniegin”"
-        "en": "P.Czajkowski Final Scene from „Eugene Oniegin”"
-      "02":
-        "pl": "L.Delibes duet kwiatów z opery „Lakmé”"
-        "en": "L.Delibes “Flower Duet” from „Lakmé”"
-      "03":
-        "pl": "F.Lehar duet Hanny i Daniło „Usta milczą, dusza śpiewa” z operetki „Wesoła wdówka”"
-        "en": "F.Lehar Hanna&Danilo duet „Lippen schweigen” from “Die lustige Witwe”"
-      "04":
-        "pl": "W.A.Mozart duet Zuzanny i Hrabiego “Crudel, perchè finora” z opery „Wesele Figara”"
-        "en": "W.A.Mozart Susanna&Conte duet “Crudel, perchè finora” from „Le Nozze di Figaro”"
-      "05":
-        "pl": "W.A.Mozart duet Zuzanny i Figara „Cinque, dieci” z opery „Wesele Figara”"
-        "en": "W.A.Mozart Susanna&Figaro duet „Cinque, dieci” from „Le Nozze di Figaro”"
       "06":
-        "pl": "W.A.Mozart duet Zuzanny i Figara „Se a caso madama” z opery „Wesele Figara”"
-        "en": "W.A.Mozart Susanna&Figaro duet „Se a caso madama” from „Le Nozze di Figaro”"
-      "07":
-        "pl": "W.A.Mozart duet Zuzanny i Marcelliny „Via resti servita” z opery „Wesele Figara”"
-        "en": "W.A.Mozart Susanna&Marcellina duet „Via resti servita” from „Le Nozze di Figaro”"
-      "08":
-        "pl": "W.A.Mozart duet Zuzanny i Hrabiny „Sull’aria” z opery „Wesele Figara”"
-        "en": "W.A.Mozart Susanna&Contessa duet „Sull’aria” from „Le Nozze di Figaro”"
-      "09":
-        "pl": "W.A.Mozart duet Zerliny i Don Giovanniego „La ci darem la mano” z opery „Don Giovanni”"
-        "en": "W.A.Mozart Zerlina&Don Giovanni duet „La ci darem la mano” from „Don Giovanni”"
-      "10":
-        "pl": "W.A.Mozart Guglielmo i Dorabelli duet „Il core vi dono” z opery „Così fan tutte”"
-        "en": "W.A.Mozart Guglielmo&Dorabella duet „Il core vi dono” from „Così fan tutte”"
-      "11":
-        "pl": "W.A.Mozart duet Anniusa i Servilii „Ah, perdona al primo affetto” z opery „Łaskawość Tytusa”"
-        "en": "W.A.Mozart Annius&Servillia duet „Ah, perdona al primo affetto” from “Clemenza di Tito”"
-      "12":
-        "pl": "G.Puccini duet Toski i Mario „Mario, Mario... Or lasciami al lavoro” z opery „Tosca”"
-        "en": "G.Puccini Tosca&Mario duet „Mario, Mario... Or lasciami al lavoro” from „Tosca”"
-      "13":
-        "pl": "G.Rossini duet „La regata veneziana”"
-        "en": "G.Rossini duet „La regata veneziana”"
-      "14":
-        "pl": "G.Verdi Violetta&Germont duet „Madamigella Valery... Imponete...” z opery “Traviata”"
-        "en": "G.Verdi Violetta&Germont duet „Madamigella Valery... Imponete...” from “Traviata”"
+        "pl": "F.Mendelssohn-Bartholdy “Jerusalem, Jerusalem” z oratorium “Paulus”"
+        "en": "F.Mendelssohn-Bartholdy “Jerusalem, Jerusalem” from “Paulus”"
+
+#  "duets":
+#    "title":
+#      "pl": "Duety"
+#      "en": "Duets"
+#    "nested": false
+#    "items":
+#      "01":
+#        "pl": "P.Czajkowski scena finałowa z opery „Eugeniusz Oniegin”"
+#        "en": "P.Czajkowski Final Scene from „Eugene Oniegin”"
+#      "02":
+#        "pl": "L.Delibes duet kwiatów z opery „Lakmé”"
+#        "en": "L.Delibes “Flower Duet” from „Lakmé”"
+#      "03":
+#        "pl": "F.Lehar duet Hanny i Daniło „Usta milczą, dusza śpiewa” z operetki „Wesoła wdówka”"
+#        "en": "F.Lehar Hanna&Danilo duet „Lippen schweigen” from “Die lustige Witwe”"
+#      "04":
+#        "pl": "W.A.Mozart duet Zuzanny i Hrabiego “Crudel, perchè finora” z opery „Wesele Figara”"
+#        "en": "W.A.Mozart Susanna&Conte duet “Crudel, perchè finora” from „Le Nozze di Figaro”"
+#      "05":
+#        "pl": "W.A.Mozart duet Zuzanny i Figara „Cinque, dieci” z opery „Wesele Figara”"
+#        "en": "W.A.Mozart Susanna&Figaro duet „Cinque, dieci” from „Le Nozze di Figaro”"
+#      "06":
+#        "pl": "W.A.Mozart duet Zuzanny i Figara „Se a caso madama” z opery „Wesele Figara”"
+#        "en": "W.A.Mozart Susanna&Figaro duet „Se a caso madama” from „Le Nozze di Figaro”"
+#      "07":
+#        "pl": "W.A.Mozart duet Zuzanny i Marcelliny „Via resti servita” z opery „Wesele Figara”"
+#        "en": "W.A.Mozart Susanna&Marcellina duet „Via resti servita” from „Le Nozze di Figaro”"
+#      "08":
+#        "pl": "W.A.Mozart duet Zuzanny i Hrabiny „Sull’aria” z opery „Wesele Figara”"
+#        "en": "W.A.Mozart Susanna&Contessa duet „Sull’aria” from „Le Nozze di Figaro”"
+#      "09":
+#        "pl": "W.A.Mozart duet Zerliny i Don Giovanniego „La ci darem la mano” z opery „Don Giovanni”"
+#        "en": "W.A.Mozart Zerlina&Don Giovanni duet „La ci darem la mano” from „Don Giovanni”"
+#      "10":
+#        "pl": "W.A.Mozart Guglielmo i Dorabelli duet „Il core vi dono” z opery „Così fan tutte”"
+#        "en": "W.A.Mozart Guglielmo&Dorabella duet „Il core vi dono” from „Così fan tutte”"
+#      "11":
+#        "pl": "W.A.Mozart duet Anniusa i Servilii „Ah, perdona al primo affetto” z opery „Łaskawość Tytusa”"
+#        "en": "W.A.Mozart Annius&Servillia duet „Ah, perdona al primo affetto” from “Clemenza di Tito”"
+#      "12":
+#        "pl": "G.Puccini duet Toski i Mario „Mario, Mario... Or lasciami al lavoro” z opery „Tosca”"
+#        "en": "G.Puccini Tosca&Mario duet „Mario, Mario... Or lasciami al lavoro” from „Tosca”"
+#      "13":
+#        "pl": "G.Rossini duet „La regata veneziana”"
+#        "en": "G.Rossini duet „La regata veneziana”"
+#      "14":
+#        "pl": "G.Verdi Violetta&Germont duet „Madamigella Valery... Imponete...” z opery “Traviata”"
+#        "en": "G.Verdi Violetta&Germont duet „Madamigella Valery... Imponete...” from “Traviata”"
