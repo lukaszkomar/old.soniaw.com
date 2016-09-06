@@ -8,10 +8,16 @@
       version    : 'v2.7'
     });
 
+      FB.getLoginStatus(function(response) {
+          console.log(response);
+          if (response.status === 'connected') {
+              var accessToken = response.authResponse.accessToken;
+          }
+      } );
 
 
       var body = 'Reading JS SDK documentation';
-      FB.api('/me/feed', 'post', { message: body }, function(response) {
+      FB.api('/soniawarzynskasopran/feed', 'post', { message: body }, function(response) {
           console.log(response);
 
           if (!response || response.error) {
@@ -26,7 +32,7 @@
      var js, fjs = d.getElementsByTagName(s)[0];
      if (d.getElementById(id)) {return;}
      js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
+     js.src = "http://connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 
