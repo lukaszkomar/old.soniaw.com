@@ -184,13 +184,35 @@
     body.bg07 {
         background-image: url(bg07.hd.jpg);
     }
+    body.bg07 h1.logo a {
+        color: #0f5c80;
+    }
+    body.bg07 #content .content {
+        color: #fff;
+        background: #0f5c80;
+    }
+
     /* bg 08 */
     body.bg08 {
         background-image: url(bg08.hd.jpg);
     }
+    body.bg08 h1.logo a {
+        color: #0f5c80;
+    }
+    body.bg08 #content .content {
+        color: #fff;
+        background: #0f5c80;
+    }
+
     /* bg 09 */
     body.bg09 {
         background-image: url(bg09.hd.jpg);
     }
-
+    body.bg09 h1.logo a {
+        color: #618b97;
+    }
+    body.bg09 #content .content {
+        color: #fff;
+        background: #618b97;
+    }
 }
