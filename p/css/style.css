@@ -180,4 +180,17 @@
         color: #0d164a;
     }
 
+    /* bg 07 */
+    body.bg07 {
+        background-image: url(bg07.hd.jpg);
+    }
+    /* bg 08 */
+    body.bg08 {
+        background-image: url(bg08.hd.jpg);
+    }
+    /* bg 09 */
+    body.bg09 {
+        background-image: url(bg09.hd.jpg);
+    }
+
 }
