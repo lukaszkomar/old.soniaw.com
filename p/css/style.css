@@ -204,7 +204,8 @@
     body.bg07 h1.logo a {
         color: #618b97;
     }
-    body.bg07 nav ul li a:hover{
+    body.bg07 nav ul li a:hover,
+    body.bg07 .personal a:hover{
         color: #5cc8ed;
     }
     body.bg07 #content .content {
@@ -220,10 +221,12 @@
         color: #048aa2;
     }
 
-    body.bg08 nav ul li a{
+    body.bg08 nav ul li a,
+    body.bg06 .personal a {
         color: #d4745f;
     }
-    body.bg08 nav ul li a:hover{
+    body.bg08 nav ul li a:hover,
+    body.bg08 .personal a:hover{
         color: #de8680;
     }
 
@@ -239,7 +242,8 @@
     body.bg09 h1.logo a {
         color: #0f5c80;
     }
-    body.bg09 nav ul li a:hover{
+    body.bg09 nav ul li a:hover,
+    body.bg09 .personal a:hover{
         color: #71b7d7;
     }
     body.bg09 #content .content {
