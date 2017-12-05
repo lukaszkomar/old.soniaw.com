@@ -734,15 +734,15 @@ recordings:
       "01":
         "pl":  "W.A.Mozart - aria Paminy „Ach, ich fühl’s” z opery „Czarodziejski flet”"
         "en":  "Pamina’s aria „Ach, ich fühl’s” from Mozart’s opera „Die Zauberflöte”"
-        "url": "https://www.youtube.com/watch?v=svSoOg-FyyM"
+        "url": "https://www.youtube.com/embed/svSoOg-FyyM"
       "02":
         "pl":  "G.Bizet – aria Micaëli „C’est des contrebandiers... Je dis...” z opery „Carmen”"
         "en":  "Micaëla’s aria „C’est des contrebandiers... Je dis...” from Bizet’s opera „Carmen”"
-        "url": "https://www.youtube.com/watch?v=vsefrTkmQNk"
+        "url": "https://www.youtube.com/v/vsefrTkmQNk"
       "03":
-        "pl":  "G.Puccini – aria Magdy „Chi il bel sogno di Doretta” z opery „Jaskó³ka”"
+        "pl":  "G.Puccini – aria Magdy „Chi il bel sogno di Doretta” z opery „Jaskółka”"
         "en":  "Magda’s aria „Chi il bel sogno di Doretta” from Puccini’s opera „La Rondine”"
-        "url": "https://www.youtube.com/watch?v=-wKyDWcQNqM"
+        "url": "https://www.youtube.com/v/-wKyDWcQNqM"
   "live":
     "title":
       "pl": Live
