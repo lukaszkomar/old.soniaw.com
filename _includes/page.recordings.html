@@ -4,7 +4,16 @@
 <h3>Recordings:</h3>
 {% endif %}
 
-#
+<iframe
+  id="iframe"
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/vsefrTkmQNk"
+  frameborder="0"
+  gesture="media"
+  allow="encrypted-media"
+  allowfullscreen
+></iframe>
 
 {% for section in site.recordings %}
 
@@ -12,7 +21,9 @@
 
 <ul>
   {% for item in section[1].items %}
-  <li>{{ item[1][page.lang] }}</li>
+  <li>
+    <a href="javascript:(function(){$('#iframe').attr('src', '{{ item[1][url] }}');})()">{{ item[1][page.lang] }}</a>
+  </li>
   {% endfor %}
 </ul>
 
