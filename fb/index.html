@@ -8,24 +8,37 @@
       version    : 'v2.7'
     });
 
-      FB.getLoginStatus(function(response) {
-          console.log(response);
-          if (response.status === 'connected') {
-              var accessToken = response.authResponse.accessToken;
-          }
-      } );
+      FB.api(
+              '/soniawarzynskasopran/feed',
+              'GET',
+              {
+                access_token:'EAAVHl9WIQlIBAMgWn9FSBgqgrbeJjZCiHg4dGHyVxQnUiwCjJkAdxy54RZAfmDVdHneQ4L86XrEmIu9WGaJGG0u46ZBrdRfhhhKZBBZCNwejAMqMqlFCYQbEQBoeZBjpTsELP150hn3ySZBCnUWzkyIwGkPtBN6hAvshQ0V31NRZB81Fq8i6NZBV4'
+              },
+              function(response) {
+                  console.log(response);
 
 
-      var body = 'Reading JS SDK documentation';
-      FB.api('/soniawarzynskasopran/feed', 'post', { message: body }, function(response) {
-          console.log(response);
-
-          if (!response || response.error) {
-              alert('Error occured');
-          } else {
-              alert('Post ID: ' + response.id);
-          }
-      });
+              }
+      );
+//
+//      FB.getLoginStatus(function(response) {
+//          console.log(response);
+//          if (response.status === 'connected') {
+//              var accessToken = response.authResponse.accessToken;
+//          }
+//      } );
+//
+//
+//      var body = 'Reading JS SDK documentation';
+//      FB.api('/soniawarzynskasopran/feed', 'post', { message: body }, function(response) {
+//          console.log(response);
+//
+//          if (!response || response.error) {
+//              alert('Error occured');
+//          } else {
+//              alert('Post ID: ' + response.id);
+//          }
+//      });
   };
 
   (function(d, s, id){
