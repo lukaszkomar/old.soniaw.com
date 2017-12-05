@@ -738,11 +738,11 @@ recordings:
       "02":
         "pl":  "G.Bizet – aria Micaëli „C’est des contrebandiers... Je dis...” z opery „Carmen”"
         "en":  "Micaëla’s aria „C’est des contrebandiers... Je dis...” from Bizet’s opera „Carmen”"
-        "url": "https://www.youtube.com/v/vsefrTkmQNk"
+        "url": "https://www.youtube.com/embed/vsefrTkmQNk"
       "03":
         "pl":  "G.Puccini – aria Magdy „Chi il bel sogno di Doretta” z opery „Jaskółka”"
         "en":  "Magda’s aria „Chi il bel sogno di Doretta” from Puccini’s opera „La Rondine”"
-        "url": "https://www.youtube.com/v/-wKyDWcQNqM"
+        "url": "https://www.youtube.com/embed/-wKyDWcQNqM"
   "live":
     "title":
       "pl": Live
