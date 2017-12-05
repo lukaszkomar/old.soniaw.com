@@ -22,7 +22,7 @@
 <ul>
   {% for item in section[1].items %}
   <li>
-    <a href="javascript:(function(){$('#iframe').attr('src', '{{ item[1][url] }}');})()">{{ item[1][page.lang] }}</a>
+    <a href="javascript:(function(){$('#iframe').attr('src', '{{ item[1].url }}');})()">{{ item[1][page.lang] }}</a>
   </li>
   {% endfor %}
 </ul>
