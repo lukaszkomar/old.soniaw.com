@@ -730,7 +730,6 @@ recordings:
     "title":
       "pl": Demo
       "en": Demo
-    "nested": false
     "items":
       "01":
         "pl": "W.A.Mozart - aria Paminy „Ach, ich fühl’s” z opery „Czarodziejski flet”"
@@ -748,7 +747,6 @@ recordings:
     "title":
       "pl": Live
       "en": Live
-    "nested": false
     "items":
       "01":
         "pl": "G.Puccini – aria Mimi „Si, mi chiamano Mimi” z opery „Cyganeria”"
