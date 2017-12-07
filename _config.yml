@@ -33,9 +33,11 @@ gallery:
       "en": "by Zofia Baranowska"
       "pl": "fot. Zofia Baranowska"
     "images":
-      "01": "baranowska1"
-      "02": "baranowska2"
-      "03": "baranowska3"
+      "01": "portrait1"
+      "02": "portrait2"
+      "03": "baranowska1"
+      "04": "baranowska2"
+      "05": "baranowska3"
 
   "didoandaeneas":
     "title":
