@@ -15,8 +15,7 @@ social:
   gplus   : https://plus.google.com/+SoniaWarzynskaSopran
   twitter : https://twitter.com/sonia_warzynska
   youtube : https://youtube.com/SoniaWarzynskaSopran
-  
-  
+
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Warsaw
 
@@ -25,6 +24,19 @@ permalink: /:title/
 
 # Struktura galerii
 gallery:
+
+  "portraits":
+    "title":
+      "en": "Portraits"
+      "pl": "Portrety"
+    "desc":
+      "en": "by Zofia Baranowska"
+      "pl": "fot. Zofia Baranowska"
+    "images":
+      "01": "baranowska1"
+      "02": "baranowska2"
+      "03": "baranowska3"
+
   "didoandaeneas":
     "title":
       "en": "Dido and Aeneas"
@@ -41,19 +53,19 @@ gallery:
       "06": "didoandaeneas6"
       "07": "didoandaeneas7"
 
-  "operameetsoperetta":
-    "title":
-      "en": "When opera meets operetta"
-      "pl": "Gdy opera spotyka się z operetką"
-    "desc":
-      "en": "Wrocław, 24.10.2015. Tomasz Maleszewski (tenor), Magdalena Jaszczak (piano)"
-      "pl": "Wrocław, 24.10.2015. Tomasz Maleszewski (tenor), Magdalena Jaszczak (akompaniament)"
-    "images":
-      "01": "operameetsoperetta1"
-      "02": "operameetsoperetta2"
-      "03": "operameetsoperetta3"
-      "04": "operameetsoperetta4"
-      "05": "operameetsoperetta5"
+#  "operameetsoperetta":
+#    "title":
+#      "en": "When opera meets operetta"
+#      "pl": "Gdy opera spotyka się z operetką"
+#    "desc":
+#      "en": "Wrocław, 24.10.2015. Tomasz Maleszewski (tenor), Magdalena Jaszczak (piano)"
+#      "pl": "Wrocław, 24.10.2015. Tomasz Maleszewski (tenor), Magdalena Jaszczak (akompaniament)"
+#    "images":
+#      "01": "operameetsoperetta1"
+#      "02": "operameetsoperetta2"
+#      "03": "operameetsoperetta3"
+#      "04": "operameetsoperetta4"
+#      "05": "operameetsoperetta5"
 
   "2015widow":
     "title":
@@ -70,58 +82,46 @@ gallery:
       "05": "widow5"
       "06": "widow6"
       "07": "widow7"
-      
-  "bukowno2014":
-    "title":
-      "en": "Bukowno"
-      "pl": "Bukowno"
-    "desc":
-      "en": "Concert in Municipal Cultural Centere in Bukowno with Sylwia Frączek (soprano) and Aleksandr Bardasau (baritone), 14.11.2014."
-      "pl": "Koncert w Miejskim Ośrodku Kultury w Bukownie, 14.11.2014r. Wraz z Sylwią Frączek (sopran) i Aleksandrem Bardasau (baryton)"
-    "images":
-      "01": "bukowno1"	
-      "02": "bukowno2"	
-      "03": "bukowno3"	
-      "04": "bukowno4"	
-      "05": "bukowno5"	
-      "06": "bukowno6"	
-#      "07": "bukowno7"	
-      "08": "bukowno8"	
 
-  "tarnobrzeg":
-    "title":
-      "en": "Tarnobrzeg"
-      "pl": "Tarnobrzeg"
-    "desc":
-      "en": "40'th Anniversary of National Music School in Tarnobrzeg, 27.10.2014"        
-      "pl": "Jubileusz 40-lecia Państwowej Szkoły Muzycznej w Tarnobrzegu 27.10.2014r"
-    "images":
-      "01": "tarnobrzeg1"	
-      "02": "tarnobrzeg2"	
-      "03": "tarnobrzeg3"
+#  "bukowno2014":
+#    "title":
+#      "en": "Bukowno"
+#      "pl": "Bukowno"
+#    "desc":
+#      "en": "Concert in Municipal Cultural Centere in Bukowno with Sylwia Frączek (soprano) and Aleksandr Bardasau (baritone), 14.11.2014."
+#      "pl": "Koncert w Miejskim Ośrodku Kultury w Bukownie, 14.11.2014r. Wraz z Sylwią Frączek (sopran) i Aleksandrem Bardasau (baryton)"
+#    "images":
+#      "01": "bukowno1"
+#      "02": "bukowno2"
+#      "03": "bukowno3"
+#      "04": "bukowno4"
+#      "05": "bukowno5"
+#      "06": "bukowno6"
+##      "07": "bukowno7"
+#      "08": "bukowno8"
 
-  "wroclaw":
-    "title":
-      "en": "Platinum Palace Wrocław"        
-      "pl": "Platinum Palace Wrocław"
-    "desc":
-      "en": "The 3rd Edition of The Young Art Auction, Platinium Palace in Wrocław, 18.10.2014"
-      "pl": "Koncert w ramach Aukcji Młodej Sztuki III, Platinum Palace we Wrocławiu, 18.10.2014r."
-    "images":
-      "01": "wroclaw1"	
-      "02": "wroclaw2"
+#  "tarnobrzeg":
+#    "title":
+#      "en": "Tarnobrzeg"
+#      "pl": "Tarnobrzeg"
+#    "desc":
+#      "en": "40'th Anniversary of National Music School in Tarnobrzeg, 27.10.2014"
+#      "pl": "Jubileusz 40-lecia Państwowej Szkoły Muzycznej w Tarnobrzegu 27.10.2014r"
+#    "images":
+#      "01": "tarnobrzeg1"
+#      "02": "tarnobrzeg2"
+#      "03": "tarnobrzeg3"
 
-  "baranowska":
-    "title":
-      "en": "Photo session"
-      "pl": "Sesja fotograficzna 2014"
-    "desc":
-      "en": "by Zofia Baranowska"
-      "pl": "fot. Zofia Baranowska"
-    "images":
-      "01": "baranowska1"	
-      "02": "baranowska2"
-      "03": "baranowska3"
+#  "wroclaw":
+#    "title":
+#      "en": "Platinum Palace Wrocław"
+#      "pl": "Platinum Palace Wrocław"
+#    "desc":
+#      "en": "The 3rd Edition of The Young Art Auction, Platinium Palace in Wrocław, 18.10.2014"
+#      "pl": "Koncert w ramach Aukcji Młodej Sztuki III, Platinum Palace we Wrocławiu, 18.10.2014r."
+#    "images":
+#      "01": "wroclaw1"
+#      "02": "wroclaw2"
 
   "estivales2014":
     "title":
@@ -148,17 +148,17 @@ gallery:
       "05": "impressioart5"
       "06": "impressioart6"
 
-  "wroclawd":
-    "title":
-      "en": "Concert at the Dominican Monastery in Wrocław"
-      "pl": "Koncert u Dominikanów we Wrocławiu"
-    "desc":
-      "en": "Concert at the Dominican Monastery in Wrocław, 17.07.2014"
-      "pl": "Koncert u Dominikanów we Wrocławiu, 17.07.2014"
-    "images":
-      "01": "wroclaw1"
-      "02": "wroclaw2"
-      "03": "wroclaw3"
+#  "wroclawd":
+#    "title":
+#      "en": "Concert at the Dominican Monastery in Wrocław"
+#      "pl": "Koncert u Dominikanów we Wrocławiu"
+#    "desc":
+#      "en": "Concert at the Dominican Monastery in Wrocław, 17.07.2014"
+#      "pl": "Koncert u Dominikanów we Wrocławiu, 17.07.2014"
+#    "images":
+#      "01": "wroclaw1"
+#      "02": "wroclaw2"
+#      "03": "wroclaw3"
 
   "figaro":
     "title":
@@ -202,21 +202,21 @@ gallery:
       "12": "rodelinda12"
       "13": "rodelinda13"
       
-  "bukowno":
-    "title":      
-      "en": "Concert in Bukowno"
-      "pl": "Koncert w Bukownie"
-    "desc":
-      "en": "Concert took place in Municipal Cultural Centre in Bukowno, 11.05.2013"
-      "pl": "Koncert odbył się w Miejskim Ośrodku Kultury w Bukownie 11.05.2013r."      
-    "images":
-      "01": "bukowno1"	
-      "02": "bukowno2"	
-      "03": "bukowno3"	
-      "04": "bukowno4"	
-      "05": "bukowno5"	
-      "06": "bukowno6"	
-      "07": "bukowno7"
+#  "bukowno":
+#    "title":
+#      "en": "Concert in Bukowno"
+#      "pl": "Koncert w Bukownie"
+#    "desc":
+#      "en": "Concert took place in Municipal Cultural Centre in Bukowno, 11.05.2013"
+#      "pl": "Koncert odbył się w Miejskim Ośrodku Kultury w Bukownie 11.05.2013r."
+#    "images":
+#      "01": "bukowno1"
+#      "02": "bukowno2"
+#      "03": "bukowno3"
+#      "04": "bukowno4"
+#      "05": "bukowno5"
+#      "06": "bukowno6"
+#      "07": "bukowno7"
 
 
 # Struktura Repertuaru
