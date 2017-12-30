@@ -678,6 +678,96 @@ repertoire:
         "pl": "F.Mendelssohn-Bartholdy “Jerusalem, Jerusalem” z oratorium “Paulus”"
         "en": "F.Mendelssohn-Bartholdy “Jerusalem, Jerusalem” from “Paulus”"
 
+  "operas":
+    "title":
+      "pl": "Opery"
+      "en": "Operas"
+    "nested": false
+    "items":
+      "01":
+        "pl": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
+        "en": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
+      "02":
+        "pl": "G.Bizet „Carmen”: Micaëla"
+        "en": "G.Bizet „Carmen”: Micaëla"
+      "03":
+        "pl": "G.F.Händel „Rodelinda”: Rodelinda"
+        "en": "G.F.Händel „Rodelinda”: Rodelinda"
+      "04":
+        "pl": "W.A.Mozart „Wesele Figara”: Zuzanna"
+        "en": "W.A.Mozart „Le Nozze di Figaro”: Susanna"
+      "05":
+        "pl": "W.A.Mozart „Czarodziejski Flet”: Pamina"
+        "en": "W.A.Mozart „Die Zauberflöte”: Pamina"
+      "06":
+        "pl": "H.Purcell „Dydona i Eneasz”: Dydona"
+        "en": "H.Purcell „Dido and Aeneas”: Dido"
+      "07":
+        "pl": "H.Purcell „The Fairyqueen”: Nyph, Night"
+        "en": "H.Purcell „The Fairyqueen”: Nyph, Night"
+
+  "oratorios":
+    "title":
+      "pl": "Oratoria"
+      "en": "Oratorios"
+    "nested": false
+    "items":
+      "01":
+        "pl": "J.S.Bach – Kantata BWV4 „Christ lag in Todes Banden”"
+        "en": "J.S.Bach – Cantate BWV4 „Christ lag in Todes Banden”"
+      "02":
+        "pl": "J.S.Bach – Kantata BWV140 „Wachet auf, ruft uns die Stimme”"
+        "en": "J.S.Bach – Cantate BWV140 „Wachet auf, ruft uns die Stimme”"
+      "03":
+        "pl": "J.S.Bach – Kantata BWV51 „Jauchzet Gott in allen Landen”"
+        "en": "J.S.Bach – Cantate BWV51 „Jauchzet Gott in allen Landen”"
+      "04":
+        "pl": "L. van Beethoven „IX Symfonia”"
+        "en": "L. van Beethoven „Symphony no.9”"
+      "05":
+        "pl": "A.Dvoøák „Msza D-dur”"
+        "en": "A.Dvoøák „Messe in d major”"
+      "06":
+        "pl": "G.Fauré „Requiem”"
+        "en": "G.Fauré „Requiem”"
+      "07":
+        "pl": "J.Haydn „Msza nelsońska”"
+        "en": "J.Haydn „Messe in augustiis”"
+      "08":
+        "pl": "J.Haydn „Stworzenie świata”"
+        "en": "J.Haydn „Die Schöpfung”"
+      "09":
+        "pl": "G.F.Händel „Dixit Dominus”"
+        "en": "G.F.Händel „Dixit Dominus”"
+      "10":
+        "pl": "G.Majka „Mgła”"
+        "en": "G.Majka „Mgła”"
+      "11":
+        "pl": "W.A.Mozart „Requiem d-moll”"
+        "en": "W.A.Mozart „Requiem in d minor”"
+      "12":
+        "pl": "W.A.Mozart „Msza c-moll”"
+        "en": "W.A.Mozart „Messe in c minor”"
+      "13":
+        "pl": "C.Orff „Carmina burana”"
+        "en": "C.Orff „Carmina burana”"
+      "14":
+        "pl": "G.B.Pergolesi „Stabat Mater”"
+        "en": "G.B.Pergolesi „Stabat Mater”"
+      "15":
+        "pl": "C. Saint-Saëns „Oratorium na Boże Narodzenie”"
+        "en": "C. Saint-Saëns „Oratorio de Noël”"
+
+  "operettas":
+    "title":
+      "pl": "Operetki"
+      "en": "Operetta"
+    "nested": false
+    "items":
+      "01":
+        "pl": "F.Lehár „Wesoła wdówka”: Hanna Glawari"
+        "en": "F.Lehár „Die lustige Witwe”: Hanna Glawari"
+
 #  "duets":
 #    "title":
 #      "pl": "Duety"
