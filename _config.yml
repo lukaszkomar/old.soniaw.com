@@ -224,79 +224,79 @@ gallery:
 # Struktura Repertuaru
 repertoire:
 
-  "parts":
-    "title":
-      "pl": Partie
-      "en": Parts
-    "nested": false
-    "items":
-      "01":
-        "pl": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
-        "en": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
-      "02":
-        "pl": "W.A.Mozart „Wesele Figara”: Zuzanna"
-        "en": "W.A.Mozart „Le Nozze di Figaro”: Susanna"
-      "03":
-        "pl": "W.A.Mozart „Wesele Figara”: Hrabina"
-        "en": "W.A.Mozart „Wesele Figara”: Contessa"
-      "04":
-        "pl": "F.Lehár „Wesoła wdówka”: Hanna Glawari"
-        "en": "F.Lehár „Die lustige Witwe”: Hanna Glawari"
-      "05":
-        "pl": "G.F.Händel „Rodelinda”: Rodelinda"
-        "en": "G.F.Händel „Rodelinda”: Rodelinda"
-      "06":
-        "pl": "H.Purcell „Dydona i Eneasz”: Dydona"
-        "en": "H.Purcell „Dido and Aeneas”: Dido"
-      "07":
-        "pl": "H.Purcell „The Fairyqueen”: Nyph, Night"
-        "en": "H.Purcell „The Fairyqueen”: Nyph, Night"
-      "08":
-        "pl": "W.A.Mozart „Requiem d-moll”"
-        "en": "W.A.Mozart „Requiem in d minor”"
-      "09":
-        "pl": "W.A.Mozart „Msza c-moll”"
-        "en": "W.A.Mozart „Messe in c minor”"
-      "10":
-        "pl": "J.Haydn „Msza nelsońska”"
-        "en": "J.Haydn „Messe in augustiis”"
-      "11":
-        "pl": "Camille Saint-Saëns „Oratorium na Boże Narodzenie”"
-        "en": "Camille Saint-Saëns „Oratorio de Noël”"
-      "12":
-        "pl": "G.B.Pergolesi „Stabat Mater”"
-        "en": "G.B.Pergolesi „Stabat Mater”"
-      "13":
-        "pl": "J.S.Bach – Kantata BWV4 „Christ lag in Todes Banden”"
-        "en": "J.S.Bach – Cantate BWV4 „Christ lag in Todes Banden”"
-      "14":
-        "pl": "J.S.Bach – Kantata BWV140 „Wachet auf, ruft uns die Stimme”"
-        "en": "J.S.Bach – Cantate BWV140 „Wachet auf, ruft uns die Stimme”"
-      "15":
-        "pl": "J.S.Bach – Kantata BWV51 „Jauchzet Gott in allen Landen”"
-        "en": "J.S.Bach – Cantate BWV51 „Jauchzet Gott in allen Landen”"
-      "16":
-        "pl": "G.F.Händel „Dixit Dominus”"
-        "en": "G.F.Händel „Dixit Dominus”"
-      "17":
-        "pl": "J.Haydn „Stworzenie świata”"
-        "en": "J.Haydn „Die Schöpfung”"
-      "18":
-        "pl": "L. van Beethoven „IX Symfonia”"
-        "en": "L. van Beethoven „Symphony no.9”"
-      "19":
-        "pl": "G.Fauré „Requiem”"
-        "en": "G.Fauré „Requiem”"
-      "20":
-        "pl": "A.Dvořák „Msza D-dur”"
-        "en": "A.Dvořák „Messe in d major”"
-      "21":
-        "pl": "C.Orff „Carmina burana”"
-        "en": "C.Orff „Carmina burana”"
-      "22":
-        "pl": "G.Majka „Mgła”"
-        "en": "G.Majka „Mgła”"
-
+#  "parts":
+#    "title":
+#      "pl": Partie
+#      "en": Parts
+#    "nested": false
+#    "items":
+#      "01":
+#        "pl": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
+#        "en": "V.Bellini „Capuleti e i Montecchi”: Giulietta"
+#      "02":
+#        "pl": "W.A.Mozart „Wesele Figara”: Zuzanna"
+#        "en": "W.A.Mozart „Le Nozze di Figaro”: Susanna"
+#      "03":
+#        "pl": "W.A.Mozart „Wesele Figara”: Hrabina"
+#        "en": "W.A.Mozart „Wesele Figara”: Contessa"
+#      "04":
+#        "pl": "F.Lehár „Wesoła wdówka”: Hanna Glawari"
+#        "en": "F.Lehár „Die lustige Witwe”: Hanna Glawari"
+#      "05":
+#        "pl": "G.F.Händel „Rodelinda”: Rodelinda"
+#        "en": "G.F.Händel „Rodelinda”: Rodelinda"
+#      "06":
+#        "pl": "H.Purcell „Dydona i Eneasz”: Dydona"
+#        "en": "H.Purcell „Dido and Aeneas”: Dido"
+#      "07":
+#        "pl": "H.Purcell „The Fairyqueen”: Nyph, Night"
+#        "en": "H.Purcell „The Fairyqueen”: Nyph, Night"
+#      "08":
+#        "pl": "W.A.Mozart „Requiem d-moll”"
+#        "en": "W.A.Mozart „Requiem in d minor”"
+#      "09":
+#        "pl": "W.A.Mozart „Msza c-moll”"
+#        "en": "W.A.Mozart „Messe in c minor”"
+#      "10":
+#        "pl": "J.Haydn „Msza nelsońska”"
+#        "en": "J.Haydn „Messe in augustiis”"
+#      "11":
+#        "pl": "Camille Saint-Saëns „Oratorium na Boże Narodzenie”"
+#        "en": "Camille Saint-Saëns „Oratorio de Noël”"
+#      "12":
+#        "pl": "G.B.Pergolesi „Stabat Mater”"
+#        "en": "G.B.Pergolesi „Stabat Mater”"
+#      "13":
+#        "pl": "J.S.Bach – Kantata BWV4 „Christ lag in Todes Banden”"
+#        "en": "J.S.Bach – Cantate BWV4 „Christ lag in Todes Banden”"
+#      "14":
+#        "pl": "J.S.Bach – Kantata BWV140 „Wachet auf, ruft uns die Stimme”"
+#        "en": "J.S.Bach – Cantate BWV140 „Wachet auf, ruft uns die Stimme”"
+#      "15":
+#        "pl": "J.S.Bach – Kantata BWV51 „Jauchzet Gott in allen Landen”"
+#        "en": "J.S.Bach – Cantate BWV51 „Jauchzet Gott in allen Landen”"
+#      "16":
+#        "pl": "G.F.Händel „Dixit Dominus”"
+#        "en": "G.F.Händel „Dixit Dominus”"
+#      "17":
+#        "pl": "J.Haydn „Stworzenie świata”"
+#        "en": "J.Haydn „Die Schöpfung”"
+#      "18":
+#        "pl": "L. van Beethoven „IX Symfonia”"
+#        "en": "L. van Beethoven „Symphony no.9”"
+#      "19":
+#        "pl": "G.Fauré „Requiem”"
+#        "en": "G.Fauré „Requiem”"
+#      "20":
+#        "pl": "A.Dvořák „Msza D-dur”"
+#        "en": "A.Dvořák „Messe in d major”"
+#      "21":
+#        "pl": "C.Orff „Carmina burana”"
+#        "en": "C.Orff „Carmina burana”"
+#      "22":
+#        "pl": "G.Majka „Mgła”"
+#        "en": "G.Majka „Mgła”"
+#
 #  "operaArias":
 #    "title":
 #      "pl": "Arie operowe"
@@ -498,7 +498,7 @@ repertoire:
 #      "15":
 #        "pl": "J.Strauss „Aria ze śmiechem” („Taki pan, jak pan…”) z operetki „Zemsta nietoperza”"
 #        "en": "J.Strauss „Adele’s Laughing Song” („Mein Herr, Marquis…”) from „Die Fledermaus”"
-
+#
 #  "sacredArias":
 #    "title":
 #      "pl": "Arie Sakralne"
@@ -523,160 +523,159 @@ repertoire:
 #      "06":
 #        "pl": "F.Mendelssohn-Bartholdy “Jerusalem, Jerusalem” z oratorium “Paulus”"
 #        "en": "F.Mendelssohn-Bartholdy “Jerusalem, Jerusalem” from “Paulus”"
-
-  "songs":
-    "title":
-      "pl": "Pieśni"
-      "en": "Songs"
-    "nested": true
-    "items":
-      "french":
-        "title":
-          "pl": "Francuskie"
-          "en": "French"
-        "items":
-          "01":
-            "pl": "S.Barber „Puisque tout passe”"
-            "en": "S.Barber „Puisque tout passe”"
-          "02":
-            "pl": "C.Chaminade „Tu me dirais”"
-            "en": "C.Chaminade „Tu me dirais”"
-          "03":
-            "pl": "C.Chaminade „Si j’étais jardinier”"
-            "en": "C.Chaminade „Si j’étais jardinier”"
-          "04":
-            "pl": "C.Debussy „Nuit d’étoiles”"
-            "en": "C.Debussy „Nuit d’étoiles”"
-          "05":
-            "pl": "H.Duparc “Extase”"
-            "en": "H.Duparc “Extase”"
-          "06":
-            "pl": "R.Hahn „Si mes vers avaient des ailes”"
-            "en": "R.Hahn „Si mes vers avaient des ailes”"
-          "07":
-            "pl": "F.Liszt „Oh, quand je dors”"
-            "en": "F.Liszt „Oh, quand je dors”"
-          "08":
-            "pl": "J.Szulc „Claire de lune”"
-            "en": "J.Szulc „Claire de lune”"
-      "russian":
-        "title":
-            "pl": "Rosyjskie"
-            "en": "Russian"
-        "items":
-          "01":
-            "pl": "M.Minkow „Пейзаж”"
-            "en": "M.Minkow „Пейзаж”"
-          "02":
-            "pl": "S.Rachmaninow „Полюбилая”"
-            "en": "S.Rachmaninow „Полюбилая”"
-          "03":
-            "pl": "S.Rachmaninow „Здесь хорошо”"
-            "en": "S.Rachmaninow „Здесь хорошо”"
-          "04":
-            "pl": "S.Rachmaninow „Не пой красавица при мне”"
-            "en": "S.Rachmaninow „Не пой красавица при мне”"
-          "05":
-            "pl": "M.Rimski-Korsakow „Не ветер вея с высоты”"
-            "en": "M.Rimski-Korsakow „Не ветер вея с высоты”"
-          "06":
-            "pl": "M.Rimski-Korsakow „О чем в тиши ночей”"
-            "en": "M.Rimski-Korsakow „О чем в тиши ночей”"
-          "07":
-            "pl": "A.Rubinstein „Ночь”"
-            "en": "A.Rubinstein „Ночь”"
-      "german":
-        "title":
-          "pl": "Niemieckie"
-          "en": "German"
-        "items":
-          "01":
-            "pl": "R.Schumann “Das Lied der Suleika” z cyklu „Liederkreis”"
-            "en": "R.Schumann “Das Lied der Suleika” from „Liederkreis”"
-          "02":
-            "pl": "R.Schumann „Die Lotosblume” z cyklu „Liederkreis”"
-            "en": "R.Schumann „Die Lotosblume” from „Liederkreis”"
-          "03":
-            "pl": "R.Schumann „Mondnacht” z cyklu „Liederkreis”"
-            "en": "R.Schumann „Mondnacht” from „Liederkreis”"
-      "polish":
-        "title":
-          "pl": "Polskie"
-          "en": "Polish"
-        "items":
-          "01":
-            "pl": "F.Chopin „Piosnka litewska”"
-            "en": "F.Chopin „Piosnka litewska”"
-          "02":
-            "pl": "F.Chopin „Poseł”"
-            "en": "F.Chopin „Poseł”"
-          "03":
-            "pl": "F.Chopin „Wiosna”"
-            "en": "F.Chopin „Wiosna”"
-          "04":
-            "pl": "J.Gablenz „Ty nie wiesz nawet jak mi źle”"
-            "en": "J.Gablenz „Ty nie wiesz nawet jak mi źle”"
-          "05":
-            "pl": "M.Karłowicz “Rdzawe liście”"
-            "en": "M.Karłowicz “Rdzawe liście”"
-          "06":
-            "pl": "F.Maklakiewicz “A jeśli chcesz zapomnieć”"
-            "en": "F.Maklakiewicz “A jeśli chcesz zapomnieć”"
-          "07":
-            "pl": "F.Maklakiewicz “Kocham Cię”"
-            "en": "F.Maklakiewicz “Kocham Cię”"
-          "08":
-            "pl": "S.Moniuszko “Dumka”"
-            "en": "S.Moniuszko “Dumka”"
-          "09":
-            "pl": "S.Moniuszko „Złota rybka”"
-            "en": "S.Moniuszko „Złota rybka”"
-          "10":
-            "pl": "S.Niewiadomski „Otwórz, Janku”"
-            "en": "S.Niewiadomski „Otwórz, Janku”"
-          "11":
-            "pl": "S.Niewiadomski „Śmieją się złote łany”"
-            "en": "S.Niewiadomski „Śmieją się złote łany”"
-          "12":
-            "pl": "F.Nowowiejski „Pieśń miłosna”"
-            "en": "F.Nowowiejski „Pieśń miłosna”"
-          "13":
-            "pl": "H.Opieński „Idzie na pola, idzie na bory”"
-            "en": "H.Opieński „Idzie na pola, idzie na bory”"
-          "14":
-            "pl": "H.Opieński „Spokojnie, zimno, patrzą oczy gwiazd”"
-            "en": "H.Opieński „Spokojnie, zimno, patrzą oczy gwiazd”"
-          "15":
-            "pl": "I.J.Paderewski „Gdy ostatnia róża zwiędła” z cyklu „4 pieśni do tekstów Asnyka”"
-            "en": "I.J.Paderewski „Gdy ostatnia róża zwiędła” from „4 Songs to Poems by Adam Asnyk”"
-          "16":
-            "pl": "I.J.Paderewski „Lune froide” z cyklu „12 pieśni do słów Mendèsa”"
-            "en": "I.J.Paderewski „Lune froide” from „12 Songs to Poems by Catulle Mendès”"
-          "17":
-            "pl": "I.J.Paderewski „Moja pieszczotka” z cyklu „6 pieśni do słów Mickiewicza”"
-            "en": "I.J.Paderewski „Moja pieszczotka” from „6 Songs to Poems by Adam Mickiewicz”"
-          "18":
-            "pl": "I.J.Paderewski „Nad wodą wielką i czystą” z cyklu „6 pieśni do słów Mickiewicza”"
-            "en": "I.J.Paderewski „Nad wodą wielką i czystą” from „6 Songs to Poems by Adam Mickiewicz”"
-          "19":
-            "pl": "I.J.Paderewski „Ton coeur est d’or pur” z cyklu „12 pieśni do słów Mendèsa”"
-            "en": "I.J.Paderewski „Ton coeur est d’or pur” from „12 Songs to Poems by Catulle Mendès”"
-          "20":
-            "pl": "P.Perkowski „Uty japońskie” (cały cykl)"
-            "en": "P.Perkowski „Japanese songs”"
-          "21":
-            "pl": "L.Różycki „Aaa... kotki dwa”"
-            "en": "L.Różycki „Aaa... kotki dwa”"
-          "22":
-            "pl": "K.Szymanowski “Kołysanka Dzieciątka Jezus”"
-            "en": "K.Szymanowski “Christkindleins Wiegenlied”"
-          "23":
-            "pl": "K.Szmanowski „Zielone słowa”"
-            "en": "K.Szmanowski „Zielone słowa”"
-          "24":
-            "pl": "W.Żeleński „Blada róża”"
-            "en": "W.Żeleński „Blada róża”"
-
+#
+#  "songs":
+#    "title":
+#      "pl": "Pieśni"
+#      "en": "Songs"
+#    "nested": true
+#    "items":
+#      "french":
+#        "title":
+#          "pl": "Francuskie"
+#          "en": "French"
+#        "items":
+#          "01":
+#            "pl": "S.Barber „Puisque tout passe”"
+#            "en": "S.Barber „Puisque tout passe”"
+#          "02":
+#            "pl": "C.Chaminade „Tu me dirais”"
+#            "en": "C.Chaminade „Tu me dirais”"
+#          "03":
+#            "pl": "C.Chaminade „Si j’étais jardinier”"
+#            "en": "C.Chaminade „Si j’étais jardinier”"
+#          "04":
+#            "pl": "C.Debussy „Nuit d’étoiles”"
+#            "en": "C.Debussy „Nuit d’étoiles”"
+#          "05":
+#            "pl": "H.Duparc “Extase”"
+#            "en": "H.Duparc “Extase”"
+#          "06":
+#            "pl": "R.Hahn „Si mes vers avaient des ailes”"
+#            "en": "R.Hahn „Si mes vers avaient des ailes”"
+#          "07":
+#            "pl": "F.Liszt „Oh, quand je dors”"
+#            "en": "F.Liszt „Oh, quand je dors”"
+#          "08":
+#            "pl": "J.Szulc „Claire de lune”"
+#            "en": "J.Szulc „Claire de lune”"
+#      "russian":
+#        "title":
+#            "pl": "Rosyjskie"
+#            "en": "Russian"
+#        "items":
+#          "01":
+#            "pl": "M.Minkow „Пейзаж”"
+#            "en": "M.Minkow „Пейзаж”"
+#          "02":
+#            "pl": "S.Rachmaninow „Полюбилая”"
+#            "en": "S.Rachmaninow „Полюбилая”"
+#          "03":
+#            "pl": "S.Rachmaninow „Здесь хорошо”"
+#            "en": "S.Rachmaninow „Здесь хорошо”"
+#          "04":
+#            "pl": "S.Rachmaninow „Не пой красавица при мне”"
+#            "en": "S.Rachmaninow „Не пой красавица при мне”"
+#          "05":
+#            "pl": "M.Rimski-Korsakow „Не ветер вея с высоты”"
+#            "en": "M.Rimski-Korsakow „Не ветер вея с высоты”"
+#          "06":
+#            "pl": "M.Rimski-Korsakow „О чем в тиши ночей”"
+#            "en": "M.Rimski-Korsakow „О чем в тиши ночей”"
+#          "07":
+#            "pl": "A.Rubinstein „Ночь”"
+#            "en": "A.Rubinstein „Ночь”"
+#      "german":
+#        "title":
+#          "pl": "Niemieckie"
+#          "en": "German"
+#        "items":
+#          "01":
+#            "pl": "R.Schumann “Das Lied der Suleika” z cyklu „Liederkreis”"
+#            "en": "R.Schumann “Das Lied der Suleika” from „Liederkreis”"
+#          "02":
+#            "pl": "R.Schumann „Die Lotosblume” z cyklu „Liederkreis”"
+#            "en": "R.Schumann „Die Lotosblume” from „Liederkreis”"
+#          "03":
+#            "pl": "R.Schumann „Mondnacht” z cyklu „Liederkreis”"
+#            "en": "R.Schumann „Mondnacht” from „Liederkreis”"
+#      "polish":
+#        "title":
+#          "pl": "Polskie"
+#          "en": "Polish"
+#        "items":
+#          "01":
+#            "pl": "F.Chopin „Piosnka litewska”"
+#            "en": "F.Chopin „Piosnka litewska”"
+#          "02":
+#            "pl": "F.Chopin „Poseł”"
+#            "en": "F.Chopin „Poseł”"
+#          "03":
+#            "pl": "F.Chopin „Wiosna”"
+#            "en": "F.Chopin „Wiosna”"
+#          "04":
+#            "pl": "J.Gablenz „Ty nie wiesz nawet jak mi źle”"
+#            "en": "J.Gablenz „Ty nie wiesz nawet jak mi źle”"
+#          "05":
+#            "pl": "M.Karłowicz “Rdzawe liście”"
+#            "en": "M.Karłowicz “Rdzawe liście”"
+#          "06":
+#            "pl": "F.Maklakiewicz “A jeśli chcesz zapomnieć”"
+#            "en": "F.Maklakiewicz “A jeśli chcesz zapomnieć”"
+#          "07":
+#            "pl": "F.Maklakiewicz “Kocham Cię”"
+#            "en": "F.Maklakiewicz “Kocham Cię”"
+#          "08":
+#            "pl": "S.Moniuszko “Dumka”"
+#            "en": "S.Moniuszko “Dumka”"
+#          "09":
+#            "pl": "S.Moniuszko „Złota rybka”"
+#            "en": "S.Moniuszko „Złota rybka”"
+#          "10":
+#            "pl": "S.Niewiadomski „Otwórz, Janku”"
+#            "en": "S.Niewiadomski „Otwórz, Janku”"
+#          "11":
+#            "pl": "S.Niewiadomski „Śmieją się złote łany”"
+#            "en": "S.Niewiadomski „Śmieją się złote łany”"
+#          "12":
+#            "pl": "F.Nowowiejski „Pieśń miłosna”"
+#            "en": "F.Nowowiejski „Pieśń miłosna”"
+#          "13":
+#            "pl": "H.Opieński „Idzie na pola, idzie na bory”"
+#            "en": "H.Opieński „Idzie na pola, idzie na bory”"
+#          "14":
+#            "pl": "H.Opieński „Spokojnie, zimno, patrzą oczy gwiazd”"
+#            "en": "H.Opieński „Spokojnie, zimno, patrzą oczy gwiazd”"
+#          "15":
+#            "pl": "I.J.Paderewski „Gdy ostatnia róża zwiędła” z cyklu „4 pieśni do tekstów Asnyka”"
+#            "en": "I.J.Paderewski „Gdy ostatnia róża zwiędła” from „4 Songs to Poems by Adam Asnyk”"
+#          "16":
+#            "pl": "I.J.Paderewski „Lune froide” z cyklu „12 pieśni do słów Mendèsa”"
+#            "en": "I.J.Paderewski „Lune froide” from „12 Songs to Poems by Catulle Mendès”"
+#          "17":
+#            "pl": "I.J.Paderewski „Moja pieszczotka” z cyklu „6 pieśni do słów Mickiewicza”"
+#            "en": "I.J.Paderewski „Moja pieszczotka” from „6 Songs to Poems by Adam Mickiewicz”"
+#          "18":
+#            "pl": "I.J.Paderewski „Nad wodą wielką i czystą” z cyklu „6 pieśni do słów Mickiewicza”"
+#            "en": "I.J.Paderewski „Nad wodą wielką i czystą” from „6 Songs to Poems by Adam Mickiewicz”"
+#          "19":
+#            "pl": "I.J.Paderewski „Ton coeur est d’or pur” z cyklu „12 pieśni do słów Mendèsa”"
+#            "en": "I.J.Paderewski „Ton coeur est d’or pur” from „12 Songs to Poems by Catulle Mendès”"
+#          "20":
+#            "pl": "P.Perkowski „Uty japońskie” (cały cykl)"
+#            "en": "P.Perkowski „Japanese songs”"
+#          "21":
+#            "pl": "L.Różycki „Aaa... kotki dwa”"
+#            "en": "L.Różycki „Aaa... kotki dwa”"
+#          "22":
+#            "pl": "K.Szymanowski “Kołysanka Dzieciątka Jezus”"
+#            "en": "K.Szymanowski “Christkindleins Wiegenlied”"
+#          "23":
+#            "pl": "K.Szmanowski „Zielone słowa”"
+#            "en": "K.Szmanowski „Zielone słowa”"
+#          "24":
+#            "pl": "W.Żeleński „Blada róża”"
+#            "en": "W.Żeleński „Blada róża”"
 
   "operas":
     "title":
