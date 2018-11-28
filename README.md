@@ -1,3 +1,3 @@
 #soniawarzynska.com
 
-Website for Sonia Warzyńska
+Website for Sonia Warzyńska-Dettlaff
